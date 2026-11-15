@@ -1,9 +1,11 @@
-# guia-csstiae-2025
+# guia-csstiae
 
-Este repositorio contiene los ficheros fuentes para una guía de preparación de las pruebas selectivas del Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE) del sector público español en la convocatoria de 2025.
+Este repositorio contiene los ficheros fuentes para una guía de preparación de las pruebas selectivas del Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE) del sector público español.
+
+Está actualizado hasta la convocatoria 2025, o lo que es lo mismo, las pruebas de acceso a la promoción XXXI.
 
 Versión web disponible en:
-<https://pmgallardo.github.io/guia-csstiae-2025>
+<https://pmgallardo.github.io/guia-csstiae>
 
 ## Construcción
 

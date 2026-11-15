@@ -22,6 +22,8 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 - nubeSARA
 - Migraciones
 
+Finalmente, el tema que fue subvenciones a empresas.
+
 ### Justicia
 
 ::: {.callout-warning icon="false" collapse="true"}
@@ -450,7 +452,7 @@ El vocal suplente J. M. García es jefe de Área Intersectorial en la Intervenci
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Regulaciones
-  - L 38/2003. General de Subvenciones.
+  - [L 38/2003](#BOE-A-2003-20977). General de Subvenciones.
 - Temas
   - 13. Convenios. Encomiendas de gestión. Colaboración público-privada
 :::
@@ -484,3 +486,14 @@ El vocal titular K. Rincón es Inspector jefe de competencia en la CNMC
 La Comisión Nacional de los Mercados y la Competencia (CNMC) es una Autoridad Administrativa Independiente (AAI) que pertenece al sector público institucional estatal, y no pertenece a la AGE.
 
 ### Propiedad intelectual
+
+### Subvenciones
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Marco normativo:
+  - ES
+    - L 38/2003 General de Subvenciones
+:::
+
+

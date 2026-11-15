@@ -8,16 +8,16 @@
 
 ## Memorizar
 
-Este apartado contiene un pequeño resumen de los temas que conviene memorizar para el supuesto práctico. Se recomienda repasar estos temas antes de la realización del supuesto práctico.
+Este apartado contiene un pequeño índice de temas que conviene memorizar para el supuesto práctico. Se recomienda repasar estos temas antes de la realización del supuesto práctico.
 
 - Servicios transversales
-- Accesbilidad
-  - EN 301 549
-  - WCAG 2.1/2.2
+
 - Recursos
   - Métodos de estimación
 - Costes
   - Tarifas de perfiles de desarrollo
+  - Tarifas de recursos de infraestructura
+  - Tarifas de recursos nube SARA
 - Contratación
   - Umbrales por tipo de contrato y tiempo de contratación
   - Umbrales SARA
@@ -26,6 +26,12 @@ Este apartado contiene un pequeño resumen de los temas que conviene memorizar p
   - ENS
     - Categorías de seguridad
     - Mecanismos de seguridad
+- Interoperabilidad
+  - ENI
+    - NTI
+- Accesibilidad
+  - EN 301 549
+  - WCAG 2.1/2.2
 - Marco normativo
   - OMS de la Agenda 2030
   - Marco normativo temas transversales

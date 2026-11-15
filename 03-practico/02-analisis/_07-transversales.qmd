@@ -62,6 +62,16 @@ La descentralización se refiere a la delegación de competencias entre distinta
   - [CTT (Centro de Transferencia de Tecnología)](01-supuesto.qmd#ctt)
 :::
 
+### Contratación (análisis pormenorizado) {#contratacion}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Estándares:
+  - [LCSP 9/2017](#BOE-A-2017-12902). Ley de Contratos del Sector Público.
+:::
+
+Este tema se revisa además en el apartado de [contratación del supuesto práctico](../01-supuesto.qmd#contratacion).
+
 ### Usabilidad
 
 ::: {.callout-note icon="false"}

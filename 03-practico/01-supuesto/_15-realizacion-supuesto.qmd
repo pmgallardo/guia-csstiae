@@ -28,26 +28,78 @@ Las indicaciones del material a llevar al ejercicio práctico son comunes a las 
 
 Material a utilizar durante la realización del ejercicio:
 
-- 2 bolígrafos
+- Bolígrafos (incluyendo repuestos)
 - Corrector ortográfico
 - Subrayadores de colores
-- Lapicero
-- Goma de borrar
 - Regla
 - Reloj analógico
 - Botella de agua
 
-No está permitido el uso de calculadora u otro dispositivo electrónico. Esto incluye relojes digitales, por lo que es necesario llevar un reloj analógico que para llevar control del tiempo.
+No está permitido el uso de calculadora u otro dispositivo electrónico. Esto incluye relojes digitales, por lo que es necesario llevar un reloj analógico que para llevar control del tiempo. No obstante, se ha observado que algunos aspirantes llevan relojes digitales sin que sean advertidos por ello.
 
-En caso de requerir llevar o emplear algún dispositivo especial por razones médicas, se debe consultar las bases, pues es posible que haya que obtener algún tipo de documentación médica y notificar al Tribunal la condición de antemano. Lo mismo si la realización del ejercicio requiere algún tipo de adaptación.
+En caso de requerir llevar o emplear algún dispositivo especial por razones médicas, se debe consultar las bases, pues es posible que haya que obtener algún tipo de documentación médica y notificar al Tribunal la condición de antemano.
 
-Llevar una botella de agua es conveniente debido a que el exámen dura más de 5 horas por lo que es probable que los candidatos tengan sed. También es 
+Si el aspirante requiere algún tipo de adaptación para la realización del ejercicio, debe avisarlo de antemano.
 
-Material para realizar el volcado tras la realización del ejercicio:
+Llevar una botella de agua es conveniente debido a que el exámen dura más de 5 horas por lo que es probable que los aspirante tengan sed. Se recuerda que esta no debe tener etiqueta o algo escrito en la botella.
+
+Estos son algunos medios que emplean los aspirantes para realizar el volcado tras la realización del ejercicio:
 
 - Cuaderno u hojas de papel
-- Portátil
+- Ordenador portátil
 - Móvil
+
+Algunos aspirantes prefieren realizarlo
+
+### Desarrollo del supuesto práctico
+
+Los exámenes que no requieren adaptación están organizados por la Universidad Nacional a Distancia (UNED), por lo que se aplica su sistema de examinación y sedes. Quien haya realizado exámenes con esta organización, estará familiarizado con muchos aspectos o con los lugares de celebración.
+
+Se debe llevar una hoja impresa que se envía por correo electrónico unos 3 días antes. Se hace cola, y se presenta esta hoja junto con el DNI.
+
+Te entregan una hoja personalizada con tu nombre que es la primera del ejercicio. Se entrega una página inicial donde viene el nombre. Tiene una casilla en la parte inferior para indicar el número de páginas entregadas, contando esa misma.
+
+Al entrar en el aula, se deben guardar en la mochila los objetos que no se vayan a usar en el exámen. Los móviles deben guardarse y permanecer apagados. La mochila queda apartada hasta el final de la prueba.
+
+La mesa empleada para realizar el ejercicio puede variar dependiendo de la sede o el aula. De manera general, se suele reservar una mesa para cada aspirante; a diferencia de otros exámenes de la UNED, no hay una persona en la mesa contigua en el caso de que haya mesas dobles, sino que se reserva la doble mesa completa para cada aspirante.
+
+El material para realizar el exámen debe quedar en manos del aspirante. Se puede llevar una botella de agua, siempre y cuando esta no lleve etiqueta.
+Estuche, o el material de escritura que contega, que incluye al menos bolígrafo, y también puede incluir subrayadores y una regla.
+Una botella de agua
+El documento de identificación (ej.: DNI).
+Sobre la mesa debe quedar la hoja inicial entregada, el material de escritura permitido, el DNI y en caso de que se use estuche este debe quedar apartado.
+
+Entregan una pila de papeles boca abajo, con la instrucción de no darle la vuelta hasta que no se lean las instrucciones, además de un sobre.
+
+Se dan las instrucciones.
+
+Las hojas están impresas en una sola cara, y van sueltas, sin grapa.
+
+Antes de comenzar el exámen, se escribe en el sobre entregado el nombre, apellidos y DNI.
+
+En una pizarra se marca la hora de entrada y la hora de salida. Es posible que el aula cuente con un reloj.
+
+Ojo porque en ocasiones la hora con la que se mide el tiempo del exámen puede no ser el mismo y variar ambos, haciendo pensar que sobra tiempo o que . Es importante comparar el tiempo de inicio indicado con la hora que esté marcando, y tener en cuenta la posible diferencia.
+
+Se da la vuelta a las hojas, que consisten en: enunciado del ejercicio práctico y hojas en blanco para entregar o usar como sucio. En la cabecera de cada página a entregar se debe rellenar el DNI y el nombre completo dentro del tiempo del exámen.
+
+En el supuesto práctico hay infinitas hojas para entregar. Incluye una cabecera y un pie.
+
+Durante el exámen pasan un detector de radiofrecuencias (RF) o un analizador de espectro para rastrear las señales de teléfonos móviles, relojes inteligentes o auriculares ocultos (pinganillos).
+
+Durante el exámen, solo se puede ir al baño acompañado por un vigilante, y de uno en uno. No obstante, es posible que dejen ir al baño antes de manera masiva en el entretiempo entre el diseño y el análisis pormenorizado.
+
+Es posible ir al baño durante el ejercicio, si bien descontará tiempo de la realización del ejercicio. Se recuerda que habitualmente tras finalizar la parte del supuesto práctico se suele dar oportunidad a los aspirantes de ir al baño.
+
+En el tiempo dado debe dar tiempo a escribir en cada página el DNI, los nombres y apellidos, numerar las páginas. También se debe rellenar el número total de hojas entregadas en la página inicial (incluida ella misma).
+
+El aspirante debe tener en cuenta que cualquier información escrita que quiera conservar del supuesto práctico y llevar al análisis pormenorizado debe ser copiado en la hoja de notas durante el tiempo dado para el supuesto. No se permite emplear el enunciado del supuesto práctico durante el análisis pormenorizado.
+
+Al finalizar el exámen, se deben doblar a la mitad las hojas en borrador y meter en el sobre.
+
+### Transición al análisis pormenorizado
+
+En la siguiente parte, el análisis pormenorizado, se conserva el enunciado del supuesto y una única hoja de notas. En caso de que se quiera retener alguna nota para el análisis pormenorizado, esta debe ser copiada en la hoja de notas facilitada para tal efecto.
 
 ### Consejos para el supuesto práctico
 
@@ -55,7 +107,10 @@ Resumen de consejos:
 
 - Leer las preguntas antes de leer el enunciado completo.
 - Subrayar los conceptos del exámen.
-- Emplear una hoja para cada ejercicio. No penaliza el número de hojas empleadas, y el usar hojas independientes permite alargar la resolución del ejercicio en caso de que se requiera ampliar una respuesta.
+- Una manera rápida de marcar las hojas como borrador y asegurar que no se mezclan con las que hay que entregar es doblar las hojas en borrador por la mitad.
+- Completar el nombre y DNI al completar cada hoja a entregar, para evitar dejar la tarea para el final del ejercicio y arriesgar el quedarse sin tiempo.
+- Emplear una hoja nueva para cada apartado o subapartado, puesto que esto permite alargar la respuesta a alguna de las preguntas sin que se solape con lo que ya hay escrito para los apartados siguientes. No penaliza el dejar en blanco parte de una cara o el revés de la hoja cuando se trata de la división de ejercicios. Se reqcuerda que las hojas están sin numerar y debe realizarse manualmente.
+- La numeración manual de páginas conviene dejarlas para el final en unos minutos dedicados al efecto, ya que en ocasiones es difícil predecir el orden que van a llevar las hojas, especialmente si no se completan los apartados en orden.
 
 En la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. No contar con el enunciado dificulta la realización del volcado, por lo que no parece buena práctica realizar una acción que deje al aspirante sin él.
 
@@ -72,7 +127,3 @@ Una propuesta de subrayado de colores puede ser:
 | Cuestiones de interés | Amarillo |
 
 Se podría distinguir con distinto color los actores internos y externos.
-
-### Transición al análisis pormenorizado
-
-En la siguiente parte, el análisis pormenorizado, se conserva el enunciado del supuesto y una única hoja de notas. En caso de que se quiera retener alguna nota para el análisis pormenorizado, esta debe ser copiada en la hoja de notas facilitada para tal efecto.

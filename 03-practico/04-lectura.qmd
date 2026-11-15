@@ -1,6 +1,6 @@
 # Lectura
 
-La lectura, habitualmente conocido como la defensa, es la exposición oral en sesión pública ante el tribunal calificador de las dos partes del ejercicio.
+La lectura, habitualmente conocida como "la defensa", es la exposición oral en sesión pública ante el Tribunal calificador de las dos partes del ejercicio.
 
 Es una prueba individual. Van llamando a los candidatos por orden alfabético de los apellidos empezando a contar desde la letra obtenida por sorteo y que figura en las bases.
 
@@ -20,6 +20,22 @@ En las bases de la convocatoria de 2025 se indica lo siguiente:
 
 > El ejercicio deberá ser leído íntegramente por la persona aspirante en sesión pública ante el tribunal. Una vez leído el ejercicio completo, el tribunal procederá a realizar cuantas preguntas considere necesarias durante un período máximo de treinta minutos, para determinar el grado de adecuación de la solución propuesta, para lo cual se podrá disponer de los elementos de apoyo que considere pertinentes, y el nivel de conocimientos de la persona aspirante sobre las materias incluidas en el programa que figura en el anexo II.
 
+## Llamamientos para las lecturas
+
+Se empieza a convocar a los aspirantes que hayan realizado el ejercicio práctico siguiendo un orden. En primer lugar, son los de promoción interna, y después los de ingreso libre. Dentro de estos grupos, se les llama por orden alfabético de apellido empezando por la letra que figurara en las bases.
+
+El tiempo transcurrido desde el ejercicio hasta la primera lectura, los días de la semana dedicados a lectura y el número de personas que leen por día pueden diferir entre cada convocatoria.
+
+Los llamamientos para las defensas se publican en la sede del INAP, en el área de promoción interna e ingreso libre. Los nuevos llamamientos se van anunciando en bloques, pudiendo publicarse con una antelación de dos días respecto a la primera lectura.
+
+Puesto que se confirma a los aspirantes con poca antelación, estos suelen tratar de predecir en qué fechas o semanas es más probable que les llamen.
+
+Previamente al llamamiento oficial, la única información de la que se dispone es la fecha de inicio de las pruebas (publicado en las notas sobre la realización del segundo ejercicio) y el listado de aspirantes convocados al ejercicio práctico (obtenido por el listado de distribución de aspirantes por aula), que es distinto del listado de aspirantes presentados.
+
+En la convocatoria 2025, empezaron a defender 3 días laborales después de la realización del ejercicio práctico, convocando de lunes a viernes cada día a 8 personas y empezando a llamar los apellidos que empiezan por U y que indicaron en las bases.
+
+Sabiendo esta información y asumiendo la restante, se puede estimar cuándo se va a llamar contando el número de aspirantes que están por delante en la lista. Se debe calcular el caso más tardío, suponiendo que todos los convocados han realizado el exámen y por tanto son llamados a la lectura, o un caso más temprano, reduciendo el número de aspirantes por delante por el porcentaje estimado de convocados que asistieron a la prueba.
+
 ## Preparación de la lectura
 
 La defensa se puede preparar individualmente, en una academia, con un preparador o con un grupo de estudio.
@@ -36,9 +52,18 @@ Se deben revisar los temas tratados en el supuesto práctico y análisis pormeno
 
 ## Asistencia como público a las lecturas
 
-Las lecturas son en sesión pública, por lo que cualquier persona puede asistir público. No obstante, el aforo a las mismas es limitado, por lo que puede convenir asistir con antelación.
+Las lecturas son en sesión pública, por lo que cualquier persona puede asistir público. No obstante, el aforo a las mismas es limitado, por lo que conviene asistir con antelación, pues en ocasión hay cola esperando antes de que empiece el evento.
 
-Algunos grupos de candidatos o voluntarios, como Preparatic, recopilan las preguntas que formula el Tribunal a los candidatos. Conviene recopilar las preguntas que realiza el Tribunal y estudiar y ensayar su posible respuesta.
+Algunos grupos de candidatos o voluntarios, como Preparatic, recopilan las preguntas que formula el Tribunal a los candidatos. 
+
+Poco antes de celebrarse el ejercicio práctico, suele publicarse una nota en el INAP.
+
+En el foro de Preparatic se suele abrir un hilo para compartir las preguntas que va realizando el Tribunal a los candidatos durante las lecturas:
+
+- [Convocatoria 2025](https://www.preparatic.org/foro/t/hilo-preguntas-sesiones-2026/9030)
+- [Convocatoria 2023](https://www.preparatic.org/foro/t/hilo-preguntas-sesiones-2025/8711)
+
+Conviene recopilar las preguntas que realiza el Tribunal y estudiar y ensayar su posible respuesta.
 
 ## Ensayo de la lectura
 
@@ -48,7 +73,9 @@ También ensayar las defensas y posibles preguntas con otros candidatos, profeso
 
 Se deben ensayar todos aquellos puntos que se detallan como consejos en la ejecución de la defensa.
 
-## Realización de la lectura de la lectura
+Algunos consejos:
+
+## Realización de la lectura
 
 Al Tribunal se le habla de usted, y se suele usar la fórmula "con permiso del Tribunal, se procede a la lectura del ejercicio" al empezar a leer la defensa.
 
@@ -60,8 +87,10 @@ Tratar de no reaccionar visiblemente en caso de encontrar discrepancias entre lo
 
 Algunas preguntas pueden ir enfocadas sobre errores que se hayan cometido en el ejercicio, y dan una segunda oportunidad.
 
-## Puntuación de la lectura
+## Calificación del ejercicio práctico
 
-La puntuación final de las lecturas se registra al finalizar cada sesión de lecturas, y no recibe ninguna revisión posterior.
+La calificación del ejercicio práctico se registra al finalizar cada sesión de lecturas, y no recibe ninguna revisión posterior. Se puntúan por separado las partes de supuesto práctico y análisis pormenorizado.
 
-Según se puede comprobar en el [informe del Tribunal de la convocatoria 2013](https://sede.inap.gob.es/sites/sede/files/public/2026-03/260211nformeFinal_OEP2023_v6_signed_JHUMGDGZPN_154AB89SD658.pdf), no parece que haya una relación clara entre la semana presentada y la nota obtenida.
+Las puntuaciones de los ejercicios prácticos se publica conjuntamente para todos los candidatos, incluyendo los de promoción interna e ingreso libre. Por ello, no se publican hasta que no se han realizado todas las lecturas.
+
+Según se puede comprobar en el [informe del Tribunal de la convocatoria 2023](https://sede.inap.gob.es/sites/sede/files/public/2026-03/260211nformeFinal_OEP2023_v6_signed_JHUMGDGZPN_154AB89SD658.pdf), no parece que haya una relación clara entre el orden de realización de lectura y la nota obtenida.

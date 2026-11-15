@@ -258,7 +258,7 @@ En el caso de telecomunicaciones existen 4 lotes:
 
 Los pliegos de cláusulas administrativas particulares deben advertir expresamente la posibilidad de modificación y el importe de esta no podrá superar el veinte por ciento del precio inicial del contrato.
 
-#### Encargos a medios propios
+#### Encargos a medios propios {#supuesto-encargos-a-medios-propios}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -266,11 +266,7 @@ Los pliegos de cláusulas administrativas particulares deben advertir expresamen
   - Jose Luis Ruiz Mendoza. [Encargos a medios propios: un instrumento ágil con todas las garantías](https://www.youtube.com/watch?v=kTpMAfAWcsk). Canal "PreparaTIC" de YouTube, 3/10/2026.
 :::
 
-Los **encargos a medios propios** son mecanismos para que se hagan encargos a organismos relacionados con la AGE. Se regulan en el art. 32 de la LCSP.
-
-Las encomiendas de gestión no hay una relación vinculante entre encomentante y encomendado.
-
-Son disintos los encargos a medios propios y las encomiendas de gestión.
+Los **encargos a medios propios** son mecanismos para que se hagan encargos a organismos relacionados con la AGE. Se regulan en los art. 32-33 de la LCSP.
 
 La definición de medio propio incluye:
 
@@ -278,6 +274,12 @@ La definición de medio propio incluye:
 - No tener más de un 20% de actividad en sector privado.
 
 Un ejemplo de medio propio sería la Fábrica Naciona de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM).
+
+Son disintos los encargos a medios propios y las encomiendas de gestión.
+
+Las encomiendas de gestión no hay una relación vinculante entre encomentante y encomendado.
+
+
 
 ### (Paso 5) Regulación armonizada SARA
 

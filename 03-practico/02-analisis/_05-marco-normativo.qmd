@@ -180,15 +180,12 @@ Clasifica los sistemas en 4 categorías con distintas obligaciones:
 - **Riesgo limitado**: Servicios públicos no esenciales (ej. chatbot). Obligaciones de transparencia e informar de que se usa IA.
 - **Riesgo mínimo**: Filtros de spam o videojuegos. Sin obligaciones.
 
+Roles:
+
+- **Responsable de despliegue**
+- **Proveedor**
+
 ### Marco normativo español
-
-#### RD 951/2005. Mejora de la calidad de la AGE {#BOE-A-2005-14836}
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Referencias:
-  - [RD 951/2005](https://www.boe.es/eli/es/rd/2005/07/29/951/con){target="_blank"}
-:::
 
 #### L 29/1998. Juridisción contencioso-administrativa {#BOE-A-1998-16718}
 
@@ -196,6 +193,43 @@ Clasifica los sistemas en 4 categorías con distintas obligaciones:
 ## 📋 Marco de referencia
 - Referencias:
   - [L 29/1998](Jurisdicción Contencioso-administrativa)
+:::
+
+#### L 38/2003. Ley general de Subvenciones {#BOE-A-2003-20977}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias:
+  - [L 38/2003](https://www.boe.es/eli/es/l/2003/11/17/38/con){target="_blank"}. Ley General de Subvenciones (LGS).
+:::
+
+**Condiciones** para obtener una subvención (art. 2):
+
+1. **Sin contraprestación directa** de los beneficiarios, es decir, las AAPP la entregan a fondo perdido.
+2. Sujeta a un **objetivo específico**.
+3. Que fomente una **actividad de función pública**.
+
+La gestión de las subvenciones se rige por dos bloques (art. 8):
+- Procedimentales.
+- De gestión.
+
+Los **procedimientos de gestión** son los siguientes:
+1. **Concurrencia competitiva**. General.
+2. **Concesión directa**. Excepcional.
+  1. Nominativo en Presupuestos Generales.
+  2. Impuesto por una ley.
+  3. Razones que justifiquen su convocatoria.
+
+Existe una Base de Datos Nacional de Subvenciones (BDNS) (art. 20).
+
+El control financiero y la gestión de la BDNS corresponden a la Intervención General del Estado (IGAE).
+
+#### RD 951/2005. Mejora de la calidad de la AGE {#BOE-A-2005-14836}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias:
+  - [RD 951/2005](https://www.boe.es/eli/es/rd/2005/07/29/951/con){target="_blank"}
 :::
 
 #### L 37/2007. Reutilización de datos en el sector público {#BOE-A-2007-19814}
@@ -270,10 +304,10 @@ Una frase plantilla que se puede añadir para el RD 668/2015:
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Referencias
-    - <https://www.boe.es/eli/es/l/2017/11/08/9/con>{target="_blank"}
+    - [L 9/2017. LCSP](https://www.boe.es/eli/es/l/2017/11/08/9/con){target="_blank"}
 :::
 
-La ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.
+La Ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.
 
 El art. 1 define los principios de contratación:
 

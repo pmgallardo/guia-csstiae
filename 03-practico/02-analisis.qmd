@@ -38,11 +38,11 @@ En caso de aplicar "plantillazos", asegurarse que estos encajan correctamente co
 
 Consejos generales para el desarrollo del análisis pormenorizado:
 
-- Escribir párrafos bien desarrollados, evitando los listados de viñetas o puntos.
+- Escribir párrafos bien desarrollados, evitando las enumeraciones por viñetas o puntos.
 - Un análisis pormenorizado demasiado corto puede penalizar la nota final, por ello se sugiere escribir rápido y produciendo una alta extensión. No obstante, se debe tratar de encontrar un equilibrio entre calidad y cantidad, pues no siempre una mayor extensión es sinónimo de mayor calificación.
 - Ser positivo hacia la AGE y evitar discursos críticos contra ella, y en todo caso enfocar las deficiencias detectadas como propuestas de mejora.
 - Ser políticamente imparcial y evitar alabar o detractar a gobiernos o grupos políticos concretos.
-- Los elogios son mejor recibidos si van dirigidas a comunidades u organismos del sector público sin afinidad política concreta.
+- Los elogios son mejor recibidos si van dirigidos a comunidades u organismos del sector público sin afinidad política concreta.
 - Vigilar los tiempos, de manera que según este finalice el candidato haya podido cerrar el análisis con su conclusión correspondiente, aun cuando esto suponga dejar fuera parte del material planificado.
 
 ### Valoración del análisis pormenorizado
