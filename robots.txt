@@ -1,1 +1,1 @@
-Sitemap: https://pmgallardo.github.io/guia-csstiae-2025/sitemap.xml
+Sitemap: https://pmgallardo.github.io/guia-csstiae/sitemap.xml
