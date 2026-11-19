@@ -90,7 +90,7 @@ Algunas normas del ENI:
 
 Norma Técnica de Interoperabilidad (NTI):
 
-Las NTIs existentes son:
+Las 12 NTIs existentes son:
 
 - Catálogo de estándares
 - Documento electrónico
@@ -102,9 +102,8 @@ Las NTIs existentes son:
 - Política de gestión de documentos electrónicos
 - Requisitos de conexión a la Red de comunicaciones de las Administraciones Públicas españolas
 - Procedimientos de copiado auténtico y conversión entre documentos electrónicos
-- Modelo de Datos para el intercambio de asientos entre las Entidades Registrales
+- Modelo de Datos para el intercambio de asientos entre las Entidades Registrales (incluye norma SICRES)
 - Reutilización de recursos de información
-- Norma SICRES (Sistema de Información Común de Registros de Entrada y Salida).
 
 El sistema InSiDe es un servicio común cumple los requisitos para que documentos y expedientes puedan almacenarse y obtenerse según el ENI.
 
@@ -150,7 +149,9 @@ Procesos de gestión mínimos:
 8. Transferencia
 9. Destrucción o elminación de documentos
 
-#### NTI SICRES
+### Modelo de Datos para el intercambio de asientos entre las Entidades Registrales
+
+##### NTI SICRES {#sicres}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -158,11 +159,12 @@ Procesos de gestión mínimos:
   - [SICRES en CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=sicres)
 :::
 
-SICRES (Sistema de Información Común de Registros de Entrada y Salida) es una NTI relativa al intercambio de registros.
+SICRES (Sistema de Información Común de Registros de Entrada y Salida) es una NTI que define el modelo de datos para intercambiar asientos registrales entre Administraciones Pública
 
 Servicios transversales somo [SIR](#sir) u [ORVE](#orve) están construidos en base a esta norma.
 
-Cuando se habla de intercambio de registros, conviene hablar de SICRES 
+Cuando se habla de intercambio de registros, conviene hablar de SICRES.
+
 
 ### Auditoría del ENI
 

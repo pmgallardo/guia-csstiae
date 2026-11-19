@@ -48,7 +48,7 @@ Existen modelos de:
 - pesos abiertos (con pesos conocidos y ejecutados en local). Llama o Mistral.
 - cerrados (con pesos desconocidos y ejecutados como servicio). GPT, Claude, Gemini. Pago por uso.
 
-Estratfegias de uso en GenIA, de menor a mayor intervención:
+Estrategias de uso en GenIA, de menor a mayor intervención:
 
 1. ICL (*In-Context Learning*) / *Prompt Engineering*: se guía al modelo con instrucciones y posiblemente algún ejemplo.
 2. RAG (*Retrieval-Augemented Generation*): se recopila información interna y se inyecta en el modelo.
@@ -59,7 +59,7 @@ RAG tiene dos pasos:
 1. convertir los datos en chunks y embeddings, y guardar en una BBDD vectorial.
 2. identificar los embeddings que 
 
-El fine-tuning se realiza sobre un modelo fundacional.
+El *fine-tuning* se realiza sobre un modelo fundacional.
 
 Para trocear cada documento en fragmentos se puede usar LangChain.
 

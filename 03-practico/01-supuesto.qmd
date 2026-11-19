@@ -54,7 +54,7 @@ Este documento es un resumen de información relevante para la preparación de l
 
 {{< include /03-practico/01-supuesto/_02-modelado.qmd >}}
 {{< include /03-practico/01-supuesto/_03-infr-comunes.qmd >}}
-{{< include /03-practico/01-supuesto/_04-serv-transversales.qmd >}}
+{{< include /03-practico/01-supuesto/_04-serv-comunes.qmd >}}
 {{< include /03-practico/01-supuesto/_05-seguridad.qmd >}}
 {{< include /03-practico/01-supuesto/_06-interoperabilidad.qmd >}}
 {{< include /03-practico/01-supuesto/_07-emergente.qmd >}}

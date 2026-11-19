@@ -236,7 +236,13 @@ Lote 6: Sw de productividad y colaboración
 
 ##### SDA 26/2021. Servicios de desarrollo {#sda262021}
 
-SDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 862.000 € excluidos impuestos, prórrogas y modificaciones contractuales. Esta cláusula fue introducida por la Dirección Ge
+SDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 862.000 € excluidos impuestos, prórrogas y modificaciones contractuales. Esta cláusula fue introducida por la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).
+
+Para licitar este SDA se emite un documento de invitación a los proveedores.
+
+::: {.callout-warning}
+El SDA 26/2021 no requiere ni Pliego de Cláusulas Administrativas Particulares (PCAP) y Pliego de Prescripciones Técnicas (PPT).
+:::
 
 ##### SDA 24/2022. Suministro de equipos de comunicaciones, servidores y sistemas de almacenamiento {#sda242022}
 
@@ -278,8 +284,6 @@ Un ejemplo de medio propio sería la Fábrica Naciona de Moneda y Timbre-Real Ca
 Son disintos los encargos a medios propios y las encomiendas de gestión.
 
 Las encomiendas de gestión no hay una relación vinculante entre encomentante y encomendado.
-
-
 
 ### (Paso 5) Regulación armonizada SARA
 

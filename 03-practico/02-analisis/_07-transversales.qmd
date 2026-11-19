@@ -440,4 +440,4 @@ La ley actúa principalmente en:
 2. Control estricto en áreas de "alto riesgo"
 3. Obligación de supervisión humana
 4. Transparencia obligatoria ante el ciudadano
-5. Alfabetización Obligatoria en IA
+5. Alfabetización obligatoria en IA

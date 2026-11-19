@@ -33,8 +33,8 @@ Las tarifas de personal no las he encontrado como estándares.
 No obtante, las tarifas aparecen en algunas licitaciones públicas, como por ejemplo:
 
 - en el Anexo IX de este otro contrato de la Comunidad de Madrid.
-- Memoria económica del expediente 300/ 2021/00023 del Ayto de Madrid
-- Servicio desarrollos evolutivos portales Madrid Destino del Ayto. de Madrid
+- [Memoria económica del expediente 300/ 2021/00023 del Ayto de Madrid](https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&cmpntname=GetDocumentsById&source=library&DocumentIdParam=455f99fa-7c57-49c8-a0a1-b4b122f1b266)
+- [Servicio desarrollos evolutivos portales Madrid Destino del Ayto. de Madrid](https://contrataciondelestado.es/wps/wcm/connect/392ff109-2036-4741-829f-271fc00bf1b0/DOC20200818132319ActaPublica+PUBLICAR.pdf?MOD=AJPERES)
 
 Se realiza esta tabla buscando números redondos y ligeramente superiores a los de los expedientes citados.
 
@@ -508,7 +508,7 @@ $$4 * 12 = 48 > 43$$
 No obstante, debido a la aproximación de horas al mes por cada 3 programadores hay que sumar 1. Con ello se concluye igualmente que se necesitan 5 programadores, tardando un total de 12 meses.
 :::
 
-##### Completación de perfiles de desarrollo {.unnumbered .unlisted}
+##### Completado de perfiles de desarrollo {.unnumbered .unlisted}
 
 A efectos prácticos, se puede establecer que un desarrollo necesita el siguiente número de perfiles:
 
@@ -520,6 +520,8 @@ A efectos prácticos, se puede establecer que un desarrollo necesita el siguient
 Se suele reducir el ratio de analistas por programador cuando interesa reducir el coste de desarrollo.
 
 También se puede promocionar un analista como analista-programador cuando interese aumentar el número perfiles de programadores sin reducir el ratio de analistas por cada programador.
+
+Por último, se puede reducir la dedicacion del jefe de proyecto a un 50-80%.
 
 Este criterio está basado en la definición de Unidad de Trabajo de la licitación de los [Servicios de Desarrollo y Mantenimiento del Registro Único de Protonterapia (RUP) para el Sistema Nacional de Salud](https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=tNPjeO7M69nK%2BJEppP2WhnzXW3zzgJBktRjJpSJDeGVqean%2FKThYS%2Bkgg1JnKHv8t0vVPmZvaP7Bqss5p37%2FNFsxObzsp3%2FUnFfyMeR6S1h45ClyWkoJ44mKM70IFcOu&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D){target="_blank"}, donde se definía que una unidad de trabajo estaba formada por:
 

@@ -256,6 +256,10 @@ Frase plantilla para el ENI:
 
 > El sistema ha sido diseñado de acuerdo con los principios y criterios establecidos en el Esquema Nacional de Interoperabilidad, regulado en el RD 4/2010, favoreciendo la interoperabilidad organizativa, semántica y técnica, el uso de estándares aplicables y la adecuada gestión y conservación de la información durante todo su ciclo de vida.
 
+::: {.callout-warning icon="false"}
+El ENI es un Real Decreto pese a tener un número bajo, que normalmente suele ir más asociado a las leyes.
+:::
+
 #### L 19/2013. Transparencia, acceso a la información pública y buen gobierno {#BOE-A-2013-12887}
 
 ::: {.callout-note icon="false"}

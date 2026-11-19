@@ -1,4 +1,4 @@
-## Servicios transversales
+## Servicios comunes
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -13,15 +13,21 @@
   - 49. Infraestructuras y servicios comunes
 :::
 
-Este  apartado se describen los servicios electrónicos transversales empleados en la Administración General del Estado (AGE) y relevantes para el ejercicio práctico.
+Los servicios comunes emplean una terminología que se publicó originalmente en el derogado RD 806/2014 y se mantuvieron en el RD 1125/2024.
 
-Los servicios transversales de la AGE son comunes a distintos organimos de la AGE. Se definieron originalmente como servicios comunes en el derogado RD 806/2014, y posteriormente fueron denominados como transversales en el RD 1125/2024.
+Se define un **servicio común** de la AGE como un servicio electrónico empleable desde cualquiera de las AAPP. En este apartado se describen los relevantes para el ejercicio práctico.
 
 El [Centro de Transferencia Tecnológica (CTT)](02-analisis.qmd#ctt), alojado en el PAe, se encarga de inventariar y compartir los servicios comunes.
 
-Los servicios electrónicos aparecen listados en el [catálogo de servicios de Administración digital](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Racionaliza_y_Comparte/catalogo-servicios-admon-digital.html) del Portal de la Administración Electrónica.
+Los servicios comunes, infraestructuras y soluciones tecnológicas compartidas de las AAPP están listadas en el [catálogo de servicios de Administración digital](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Racionaliza_y_Comparte/catalogo-servicios-admon-digital.html) del Portal de la Administración Electrónica.
 
-La Comisión de Estrategia TIC (CETIC) declaró 14 servicios compartidos de la AGE en 2025:
+Entre los servicios comunes algunos se consideran servicios transversales, y dentro los transversales algunos se consideran servicios compartidos.
+
+Un **servicio transversal** es aquel que cubre necesidades horizontales comunes a varias unidades de la AGE, en contraposición con el término **servicio sectorial**.
+
+Un **servicio compartido** es aquel que ha sido declarado como tal por la Comisión de Estrategia TIC (CETIC), y que tiene carácter obligatorio y sustitutivo.
+
+La CETIC declaró 14 servicios compartidos de la AGE en 2025:
 
 - Servicio Unificado de Telecomunicaciones
 - Servicio de Seguridad Gestionada
@@ -37,6 +43,10 @@ La Comisión de Estrategia TIC (CETIC) declaró 14 servicios compartidos de la A
 - Servicio común de generación y validación de firmas electrónicas
 - Servicio de gestión y documentos electrónicos
 - Servicio de gestión de archivo electrónico
+
+::: {.callout-warning icon="true"}
+En el ejercicio práctico, mencionar solo los servicios comunes o transversales que sean relevantes.
+:::
 
 ### Servicio Unificado de Telecomunicaciones (SUT)
 
@@ -63,13 +73,17 @@ La secretaria suplente del Tribunal trabajó en nubeSARA entre 2018 y 2026.
   - [NubeSARA](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=nubesara), PAe.
 :::
 
-NubeSARA es un servicio de nube híbrida para la AGE, gestionado desde la AEAD. Los organismos del sector público tienen esta infraestructura disponible desde la Red SARA.
+NubeSARA es un servicio compartido de nube híbrida disponible en exclusiva para las AAPP, prestado por la Agencia Estatal de Administración Digital (AEAD). Los organismos del sector público tienen esta infraestructura disponible desde la Red SARA. Es necesario establecer un convenio con la AEAD para su uso.
 
 NubeSARA se lleva a cabo en una serie de CPDs disponibles. Hay 3 CPDs: Moncloa (el histórico), El Escorial (empleado sobre todo por las Fuerzas de Seguridad) y Las Rozas (en desarrollo).
 
 Cumplen el Tier IV.
 
 Los costes de NubeSARA se detallan en el apartado sobre costes.
+
+::: {.callout-warning icon="true"}
+Puesto que NubeSARA es un servicio compartido, no aplican en estos casos procedimientos abiertos o mecanismos de contratación centralizados como acuerdos marcos (AM) o sistemas dinámicos de adquisición (SDA).
+:::
 
 ###  Servicio de Correo Electrónico
 
@@ -105,7 +119,7 @@ No confundir con [PID](#plataforma-de-intermediación-de-datos), que se especial
 
 Oficina de Registro Virtual (ORVE) es una aplicación en la nube que permite gestionar las Oficinas de Registro de entrada/salida de una Administración (incluyendo la digitalización, envío y recepción), proporcionando su propio libro de registro.
 
-Cuenta con la certificación de la NTI SICRES 4.0. Usa SIR como backend.
+Cuenta con la certificación de la NTI [SICRES](#sicres) 4.0. Usa SIR como backend.
 
 Al ser una solución básica, es más utilizada por organismos pequeños como ayuntamientos.
 
