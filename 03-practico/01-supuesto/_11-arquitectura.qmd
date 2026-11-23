@@ -204,7 +204,7 @@ El resumen de cuándo usar cada uno:
 - REST, para conectar con sistemas externos (ej.: una app, un navegador).
 - gRPC, para conectar componentes internos que requieren respuesta que llegará al momento.
 - AMQP (RabbitMQ), para conectar componentes internos cuya respuesta es necesaria pero tardará varios segundos (pantalla de espera).
-- Streaming de eventos (KafkaMQ), para conectar componentes internos cuya respuesta no influye en el evento principal.
+- Protocolo binario sobre TCP en KafkaMQ, para conectar componentes internos cuya respuesta no influye en el evento principal.
 
 Los aspirantes suelen incluir en los microservicios de backend un único 
 

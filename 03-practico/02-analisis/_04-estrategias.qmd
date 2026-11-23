@@ -58,7 +58,7 @@ La Unión Europea ha lanzado dos planes estratégicos para impulsar la economía
 
 La Segunda Agenda Digital de Europa es una estrategia política macro para adaptar a Europa a la era digital, elaborada por la Comisión Europea.
 
-La Década Digital de la UE, también llamado Década Digital 2030, es un programa político operativo dentro de la Segunda Agenda Digital de Europa que incluye marco de programa, objetivos, proyectos y principios para coordinar el desarrollo digital de la UE.
+La **Década Digital de la UE**, también llamado Década Digital 2030, es un programa político operativo dentro de la Segunda Agenda Digital de Europa que incluye marco de programa, objetivos, proyectos y principios para coordinar el desarrollo digital de la UE.
 
 La **Brújula Digital 2030** es una herramienta métrica, creada en 2021 y enmarcada dentro de la Década Digital, define objetivos mediables para 2030 categorizados por cuatro puntos cardinales:
 

@@ -58,7 +58,7 @@ El informe REINA (Revisión de Equipamiento, Inversión y Nómina de Personal In
 
 #### OAW
 
-El Observatorio de Accesibilidad Web (OAW) es...
+El Observatorio de Accesibilidad Web (OAW) realiza seguimiento periódico y auditorías automatizadas y manuales sobre portales de administraciones públicas, e informa sobre sus resultados.
 
 [OAW en el PAe](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_Observatorio_de_Accesibilidad.html){target="_blank"}
 

@@ -15,19 +15,19 @@
 
 Los servicios comunes emplean una terminología que se publicó originalmente en el derogado RD 806/2014 y se mantuvieron en el RD 1125/2024.
 
-Se define un **servicio común** de la AGE como un servicio electrónico empleable desde cualquiera de las AAPP. En este apartado se describen los relevantes para el ejercicio práctico.
+Se define un **servicio común** como un servicio electrónico disponible desde cualquiera de las AAPP. En este apartado se describen los relevantes para el ejercicio práctico.
 
 El [Centro de Transferencia Tecnológica (CTT)](02-analisis.qmd#ctt), alojado en el PAe, se encarga de inventariar y compartir los servicios comunes.
 
 Los servicios comunes, infraestructuras y soluciones tecnológicas compartidas de las AAPP están listadas en el [catálogo de servicios de Administración digital](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Racionaliza_y_Comparte/catalogo-servicios-admon-digital.html) del Portal de la Administración Electrónica.
 
-Entre los servicios comunes algunos se consideran servicios transversales, y dentro los transversales algunos se consideran servicios compartidos.
+Entre los servicios comunes algunos se consideran servicios transversales.
 
-Un **servicio transversal** es aquel que cubre necesidades horizontales comunes a varias unidades de la AGE, en contraposición con el término **servicio sectorial**.
+Un **servicio transversal** es aquel que ha sido declarado como tal por la Comisión de Estrategia TIC (CETIC), a propuesta del Consejo Rector de la AEAD, y que tiene carácter obligatorio y sustitutivo. Este servicio cubre necesidades horizontales comunes a varias unidades de la AGE, en contraposición con el término **servicio sectorial**. 
 
-Un **servicio compartido** es aquel que ha sido declarado como tal por la Comisión de Estrategia TIC (CETIC), y que tiene carácter obligatorio y sustitutivo.
+El término "servicio transversal" sustituye al de "servicio compartido" desde el RD 1125/2024.
 
-La CETIC declaró 14 servicios compartidos de la AGE en 2025:
+La CETIC declaró 14 servicios transversales de la AGE en 2025:
 
 - Servicio Unificado de Telecomunicaciones
 - Servicio de Seguridad Gestionada
@@ -45,7 +45,7 @@ La CETIC declaró 14 servicios compartidos de la AGE en 2025:
 - Servicio de gestión de archivo electrónico
 
 ::: {.callout-warning icon="true"}
-En el ejercicio práctico, mencionar solo los servicios comunes o transversales que sean relevantes.
+En el ejercicio práctico, se deben mencionar solo los servicios comunes o transversales que sean relevantes. Tan malo es poner de menos como poner de más.
 :::
 
 ### Servicio Unificado de Telecomunicaciones (SUT)
@@ -247,7 +247,7 @@ Un **expediente electrónico** es el conjunto ordenado de documentos electrónic
   - [InSiDe en CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=inside). PAe.
 :::
 
-Infraestructuras y Sistemas de Documentación Electrónica (**InSiDe**) es un sistema para la gestión de documentos y expedientes electrónicos. Se puede definir como un motor de cumplimiento normativo (middleware) que transforma ficheros normales en documentos y expedientes legales según el ENI.
+Infraestructuras y Sistemas de Documentación Electrónica (**InSiDe**) es un sistema para la gestión de documentos y expedientes electrónicos. Se puede definir como un motor de cumplimiento normativo (*middleware*) que transforma ficheros normales en documentos y expedientes legales según el ENI.
 
 El uso de InSiDe permite ahorrar a los organismos públicos el conocer e implementar la compleja normativa relativa a la interoperabilidad.
 

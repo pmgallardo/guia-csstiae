@@ -1,4 +1,4 @@
-## Contratación
+## Provisión de medios
 
 ::: {.callout-note collapse="true" icon="false"}
 ## 📝 Apariciones en examen
@@ -24,11 +24,14 @@ Convocatorias/tareas: 2020.8, 2019.5
   - <https://runmodule.com/2026/01/27/contratacion-en-el-sector-publico-de-espana/>
 :::
 
-En este apartado se cubren aspectos relacionados con la contratación en la Administración General del Estado (AGE).
+En este apartado se cubren aspectos relacionados con la provisión de medios en la Administración General del Estado (AGE).
+
+Se utiliza la denominación «provisión de medios» como título del apartado, en lugar de «contratación», dado que esta última constituye únicamente una de las posibles modalidades de aquella.
 
 Lo más importante de este tema de cara al supuesto práctico es ser capaz de:
 
-- Distinguir los distintos procedimientos de contrataciones con sus umbrales y conocer los tiempos de espera que requieren
+- Diferenciar las distintas modalidades de provisión de medios y entender en qué condiciones se puede emplear cada una.
+- Distinguir los distintos procedimientos de contrataciones con sus umbrales y conocer los tiempos de espera que requieren.
 - Identificar los acuerdos marcos (AM) más relevantes para IT, saber cuándo aplicarlos
 - Identificar los sistemas dinámicos de adquisición (SDA) más relevantes para IT, y saber cuándo aplicarlos
 - Identificar si un contrato es SARA, y en caso afirmativo, comprender sus implicaciones
@@ -43,11 +46,10 @@ Pasos del proceso de contratación en el supuesto práctico:
 
 1. **Tipología**: Asignar cada uno de los gastos a una tipología de contratación según objeto (ej.: suministros, servicios)
 2. **Urgencia**: Comprobar si aplica la tramitación urgente
-3. **Centralización**: Incluir todos los gastos posibles en contratación centralizada (ej.: AM, SDA).
-4. **Descentralización**: Evaluar el procedimiento de contratación aplicable a los gastos restantes
-5. **SARA**: Comprobar si el contrato está sujeto a regulación armonizada (SARA), y en caso afirmativo, explicar implicaciones.
-6. **Consejo de Ministros**: Comprobar si el contrato debe ser aprobado por Consejo de Ministros (>12M€).
-7. **Lotes**: Dividir en lotes
+3. **Procedimientos de provisión y ejecución de prestaciones públicas**: Elegir entre las opciones disponibles para cada tipología de recurso.
+4. **SARA**: Comprobar si el contrato está sujeto a regulación armonizada (SARA), y en caso afirmativo, explicar implicaciones.
+5. **Consejo de Ministros**: Comprobar si el contrato debe ser aprobado por Consejo de Ministros (>12M€).
+6. **Lotes**: Dividir en lotes
 
 Resumen de tipologías de contratación pública, con sus límites y tiempos:
 
@@ -171,7 +173,23 @@ Se puede declarar la urgencia en un expediente de contratación cuando se cumpla
 
 Como nota, hay subprocesos dentro de la contratación qeu no pueden ser reducidos, como las alegaciones no el plazo de presentación de ofertas de los procesos simplificados. No obstante, el proceso de contratación completo sigue reduciéndose a la mitad.
 
-### (Paso 3) Contratación centralizada
+### (Paso 3) Procedimientos de provisión y ejecución de prestaciones públicas
+
+Los principales grupos de procedimientos de provisión y ejecución de prestaciones públicas son:
+
+- Sistemas de racionalización de la contratación
+- Procedimientos de adjudicación contractual
+- Otras formas de gestión y ejecución de prestaciones públicas
+
+#### Sistemas de racionalización de la contratación
+
+Dentro de los sistemas de racionalización de la contratación encontramos:
+
+- Contratación centralizada
+- AM
+- SDA
+
+##### Contratación centralizada
 
 La regulación contratación centralizada se desarrolla tanto en la LCSP, en la subsección 2.ª "Contratación centralizada" (artículo 229 en adelante) de la LCSP, como en Órdenes Ministeriales que no modifican dicha ley. A 2026, la Orden más reciente sobre la contratación centralizada es la [Orden HAC/459/2026](https://www.boe.es/buscar/act.php?id=BOE-A-2026-10307). Conviene revisar que se está trabajando con la normativa actualizada a la hora de preparar el supuesto práctico, ya que la normativa de contratación centralizada cambia con frecuencia.
 
@@ -181,21 +199,24 @@ La regulación contratación centralizada se desarrolla tanto en la LCSP, en la 
 - [Orden HAC/459/2026](https://www.boe.es/buscar/act.php?id=BOE-A-2026-10307)
 :::
 
-Modalidades dentro de la contratación centralizada:
-
-- Acuerdo marco (AM)
-- Sistema dinámico de adquisición (SDA)
-- Contratos centralizados
+Los AM y SDA se suelen emplear en contextos de contratación centralizada, aunque no son exclusivos a ellos.
 
 Por encima de 1.500.000 € no se puede ir por contratación centralizada y habría que ir muy probablemente a procedimiento abierto.
 
 Se pueden revisar el catálogo de contratación centralizada en la [página web del catálogo de contratación centralizada](https://contratacioncentralizada.gob.es/catalogo).
 
-La tendencia es convertir los acuerdos marcos en sistemas dinámicos de adquisición (SDA), ya que son más flexibles y fomenta la competitividad y ofrece mayor transparencia.
-
 La Secretaría General de la Administración Digital (SGAD) emite el informe preceptivo y la DGRCC coordina el proceso de compra conjunto.
 
-#### Acuerdos Marco
+Los contratos centralizados son aquellos que se sirven a todas las administraciones públicas en un único contrato.
+
+En el caso de telecomunicaciones existen 4 lotes:
+
+- Lote 1. Fijo. Adjudicado a Telefónica
+- Lote 2: Móviles. Otorgado a Vodafone
+- Lote 3: Internet. Otorgado a Telefónica.
+- Lote 4: Internacional. Adjudicado a British Telecom (BT)
+
+##### Acuerdos Marco
 
 La duración máxima de un acuerdo marco es de 2 años prorrogables a otros 2. Durante el plazo de vigencia del acuerdo marco no pueden entrar más proveedores.
 
@@ -207,17 +228,25 @@ En caso de contratos no SARA es suficiente con contactar con 3 proveedores.
 
 El órgano de contratación es, como norma general, la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).
 
+Cuando un organismo contrata a través de un AM, generalmente no es necesario verificar nuevamente el cumplimiento de SARA, puesto que la DGRCC ya habrá realizado las comprobaciones pertinentes
+
+La tendencia es convertir los acuerdos marcos en sistemas dinámicos de adquisición (SDA), ya que son más flexibles y fomenta la competitividad y ofrece mayor transparencia.
+
 Acuerdos marcos relevantes para IT:
 
 - [AM 02/2023](https://contratacioncentralizada.gob.es/web/dgrcc/-/ficha-ami-suministro-ordenadores). Ordenadores de mesa, portátiles monitores y otras soluciones del puesto de trabajo
 - [AM 05/2023](https://contratacioncentralizada.gob.es/web/dgrcc/-/ficha-ami-impresoras). Impresoras, fotocopiadoras y escáneres
 - [AM 08/2021](https://contratacioncentralizada.gob.es/web/dgrcc/-/ficha-ami-sistemas-seguridad). Sistemas de seguridad
 
-#### Sistemas Dinámicos de Adquisición
+##### Sistemas Dinámicos de Adquisición
 
 Cada Sistemas dinámicos de adquisición (SDA) tiene una duración de 5 años, y cada uno de ellos puede aplicar restricciones particulares que no apliquen al resto de SDAs.
 
 Durante su vigencia se permiten que salgan y entren empresas, representando a un "club de proveedores" que tienen acceso a las licitaciones rápidas.
+
+El órgano de contratación es, como norma general, la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).
+
+Cuando un organismo contrata a través de un SDA, generalmente no es necesario verificar nuevamente el cumplimiento de SARA, puesto que la DGRCC ya habrá realizado las comprobaciones pertinentes
 
 SDAs relevantes para TI:
 
@@ -225,7 +254,7 @@ SDAs relevantes para TI:
 - [SDA 25/2022](https://contratacioncentralizada.gob.es/web/dgrcc/-/ficha-sda-suministro-de-software). Suministro de software
 - [SDA 26/2021](https://contratacioncentralizada.gob.es/web/dgrcc/-/ficha-sda-servicios-de-desarrollo). Servicios de desarrollo
 
-##### SDA 25/2022. Suministro de software {#sda252022}
+###### SDA 25/2022. Suministro de software {#sda252022}
 
 Lote 1: Sw de sistema para la ejecución y desarrollo de aplicaciones
 Lote 2: Sw para la gestión de infraestructura
@@ -234,9 +263,9 @@ Lote 4: Sw de ciberseguridad
 Lote 5: Sw de aplicación para la administración digital
 Lote 6: Sw de productividad y colaboración
 
-##### SDA 26/2021. Servicios de desarrollo {#sda262021}
+###### SDA 26/2021. Servicios de desarrollo {#sda262021}
 
-SDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 862.000 € excluidos impuestos, prórrogas y modificaciones contractuales. Esta cláusula fue introducida por la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).
+SDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 1.500.000 € excluidos impuestos, prórrogas y modificaciones contractuales. Esta cláusula fue introducida por la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).
 
 Para licitar este SDA se emite un documento de invitación a los proveedores.
 
@@ -244,107 +273,12 @@ Para licitar este SDA se emite un documento de invitación a los proveedores.
 El SDA 26/2021 no requiere ni Pliego de Cláusulas Administrativas Particulares (PCAP) y Pliego de Prescripciones Técnicas (PPT).
 :::
 
-##### SDA 24/2022. Suministro de equipos de comunicaciones, servidores y sistemas de almacenamiento {#sda242022}
+###### SDA 24/2022. Suministro de equipos de comunicaciones, servidores y sistemas de almacenamiento {#sda242022}
 
 Lote 1: Equipos de comunicaciones
 Lote 2: Servidores y sistemas de almacenamiento 
 
-#### Contratos centralizados
-
-Los contratos centralizados son aquellos que se sirven a todas las administraciones públicas en un único contrato.
-
-En el caso de telecomunicaciones existen 4 lotes:
-
-- Lote 1. Fijo. Adjudicado a Telefónica
-- Lote 2: Móviles. Otorgado a Vodafone
-- Lote 3: Internet. Otorgado a Telefónica.
-- Lote 4: Internacional. Adjudicado a British Telecom (BT)
-
-### Modificación de Contratos
-
-Los pliegos de cláusulas administrativas particulares deben advertir expresamente la posibilidad de modificación y el importe de esta no podrá superar el veinte por ciento del precio inicial del contrato.
-
-#### Encargos a medios propios {#supuesto-encargos-a-medios-propios}
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Referencias
-  - Jose Luis Ruiz Mendoza. [Encargos a medios propios: un instrumento ágil con todas las garantías](https://www.youtube.com/watch?v=kTpMAfAWcsk). Canal "PreparaTIC" de YouTube, 3/10/2026.
-:::
-
-Los **encargos a medios propios** son mecanismos para que se hagan encargos a organismos relacionados con la AGE. Se regulan en los art. 32-33 de la LCSP.
-
-La definición de medio propio incluye:
-
-- No tener inversión privada.
-- No tener más de un 20% de actividad en sector privado.
-
-Un ejemplo de medio propio sería la Fábrica Naciona de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM).
-
-Son disintos los encargos a medios propios y las encomiendas de gestión.
-
-Las encomiendas de gestión no hay una relación vinculante entre encomentante y encomendado.
-
-### (Paso 5) Regulación armonizada SARA
-
-La **regulación armonizada** o **SARA** es aquella se aplica a contratos del sector público de la UE que cumplen ciertas condiciones. Estas están especificadas en la Sección 2.ª "Contratos sujetos a una regulación armonizada" (a partir del artículo 19) la LCSP.
-
-La LCSP tiene una habilitación expresa para que Órdenes Ministeriales, de Hacienda en realidad, puedan modificarla. De esta manera, los **umbrales europeos** definidos por la Comisión Europea se actualizan cada dos años, en diciembre, mediante Órdenes Ministeriales dos años. A 2026, la orden más reciente que define umbrales europeos es la Orden HAC/1517/2025; no obstante, el texto consolidado de la LCSP incluye los cambios indicados.
-
-::: {.callout-note collapse="true"}
-## Histórico de órdenes que actualizan los umbrales europeos de la LCSP:
-- Orden HFP/1298/2017
-- Orden HAC/1272/2019
-- Orden HFP/1499/2021
-- Orden HFP/1352/2023
-- [Orden HAC/1517/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26605)
-:::
-
-Un **contrato de regulación armonizada** o **contrato SARA** es aquel sobre el que se aplica la regulación armonizada.
-
-#### Condiciones SARA {.unnumbered .unlisted}
-
-Tal y como dicta la Orden HAC/1517/2025, SARA se aplica cuando el valor estimado del contrato sobrepasa el **umbral** de:
-
-- 140.000 € para la AGE en contratos de suministros y servicios
-- 216.000 € para organismos distintos a la AGE en contratos de suministros y servicios
-- 750.000 € para contratos de servicios sociales y especiales especificados en el Anexo IV de la LCSP 
-- 5.404.000 € en contratos de obras, concesión de obras y de concesión de servicio (para cualquier organismo)
-
-Existen una serie de excepciones en los que no se aplica SARA especificadas en los art. 19.2. De manera muy sintetizada, serían los contratos relacionados con los servicios siguientes:
-
-- Comunicación audiovisual
-- Defensa
-- Secretos o reservados
-- Comunicaciones
-- Servicios jurídicos
-- Defensa civil, protección civil o gestión de riesgos
-- Transporte público
-- Abastecimiento y tratado de agua
-
-#### Implicaciones SARA {.unnumbered .unlisted}
-
-El resumen de las implicaciones para los contratos bajo regulación armonizada respecto las no SARA son:
-
-- El anuncio deben publicarse en el Diario Oficial de la Unión Europea (en lugar del BOE).
-- Plazos más largos y pasos adicionales que ralentizan el proceso.
-- Rigidez en las modificaciones.
-
-### Aprobación por Consejo de Ministros
-
-El Consejo de Ministros debe aprobar el contrato cuando su importe supere los 12.000.000 €. Esto está definido en el art. 32.6.c del LCSP.
-
-### Plazo de ejecución
-
-El plazo de ejecución se especifica en el pliego, sin que exista un plazo máximo. Los plazos de ejecución se regulan en el art. 210 de la ley 9/2017.
-
-### Prórrogas en concesiones
-
-Las prórrogas de las concesiones deben ser acordadas entre la entidad contratante y el contratista.
-
-Vienen reguladas en el art. 205 de la ley 9/2017.
-
-### Procedimientos de adjudicación
+### Procedimientos de adjudicación contractual
 
 Procedimientos o formas de adjudicación:
 
@@ -512,6 +446,124 @@ Los contratos menores NO son susceptbiles de prórroga.
 
 Según los apuntes de Andreu Bosa, lleva un mes su tramitación.
 
+### Otras modalidades de provisión de servicios
+
+Entre las otras modalidades de provisión de servicios públicos se encuentra:
+
+- Ejecución directa
+- Encargos a medios propios
+- Encomienda de gestión
+
+#### Ejecución directa
+
+La **ejecución directa** mediante **personal propio** o **equipo interno** implica el uso de recursos internos para la realización de actividades.
+
+En jerga jurídica, en ocasiones se puede referir a esta modalidad como medios propios no personificados, aunque son más habituales las expresiones anteriormente referidas y menos ambiguas
+
+#### Encargos a medios propios {#encargos-a-medios-propios-supuesto-practico}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia   
+- Referencias
+  - Jose Luis Ruiz Mendoza. [Encargos a medios propios: un instrumento ágil con todas las garantías](https://www.youtube.com/watch?v=kTpMAfAWcsk). Canal "PreparaTIC" de YouTube, 3/10/2026.
+:::
+
+Los **encargos a medios propios** son mecanismos de autoorganización para que se hagan encargos a organismos relacionados con la AGE.
+
+Se regula fundamentalmente en los art. 32-33 de la L 9/2017 (LCSP), y adicionalmente en el ámbito de la AGE en el art. 86 de la L 40/2015 (RJSP).
+
+El destinatario es una persona jurídica declarada como medio propio.
+
+Se distingue dentro de los encargos a medios propios son siempre a través de medios personificados, es decir, mediante una personalidad jurídica.
+
+La definición de medio propio incluye:
+
+- Controlado por el organismo, como si fuese propio.
+- 100% de capital público.
+- No tener más de un 20% de actividad en sector privado.
+
+Un ejemplo de medio propio personificado sería la Fábrica Naciona de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM).
+
+Son distintos los encargos a medios propios y las encomiendas de gestión.
+
+::: {.callout-warning icon="false"}
+Los encargos a medios propios no son contratos, a pesar de estar regulados en la Ley de Contratos del Sector Público (LCSP).
+:::
+
+#### Encomienda de gestión (supuesto práctico) {#encomienda-de-gestion-supuesto-practico}
+
+En una **encomienda de gestión** es un mecanismo de cooperación en el que una AP encomienda a otra entidad pública un encargo.
+
+El destinatario es un órgano o entidad de Derecho público.
+
+Se regula en el art. 11 de la L 40/2015 (LRJSP).
+
+La encomienda de gestión debe:
+
+* Responder a razones de eficacia o a la falta de medios técnicos idóneos.
+* No puede tener por objeto prestaciones propias del LCSP.
+
+En las encomiendas de gestión no hay una relación vinculante entre encomendante y encomendado.
+
+### (Paso 4) Regulación armonizada SARA
+
+La **regulación armonizada** o **SARA** es aquella se aplica a contratos del sector público de la UE que cumplen ciertas condiciones. Estas están especificadas en la Sección 2.ª "Contratos sujetos a una regulación armonizada" (a partir del artículo 19) la LCSP. Solo aplica por tanto a aquellas modalidades que conllevan contratación (la centralizada y la de procedimientos de adjudicación).
+
+La LCSP tiene una habilitación expresa para que Órdenes Ministeriales, de Hacienda en realidad, puedan modificarla. De esta manera, los **umbrales europeos** definidos por la Comisión Europea se actualizan cada dos años, en diciembre, mediante Órdenes Ministeriales dos años. A 2026, la orden más reciente que define umbrales europeos es la Orden HAC/1517/2025; no obstante, el texto consolidado de la LCSP incluye los cambios indicados.
+
+::: {.callout-note collapse="true"}
+## Histórico de órdenes que actualizan los umbrales europeos de la LCSP:
+- Orden HFP/1298/2017
+- Orden HAC/1272/2019
+- Orden HFP/1499/2021
+- Orden HFP/1352/2023
+- [Orden HAC/1517/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26605)
+:::
+
+Un **contrato de regulación armonizada** o **contrato SARA** es aquel sobre el que se aplica la regulación armonizada.
+
+#### Condiciones SARA {.unnumbered .unlisted}
+
+Tal y como dicta la Orden HAC/1517/2025, SARA se aplica cuando el valor estimado del contrato sobrepasa el **umbral** de:
+
+- 140.000 € para la AGE en contratos de suministros y servicios
+- 216.000 € para organismos distintos a la AGE en contratos de suministros y servicios
+- 750.000 € para contratos de servicios sociales y especiales especificados en el Anexo IV de la LCSP 
+- 5.404.000 € en contratos de obras, concesión de obras y de concesión de servicio (para cualquier organismo)
+
+Existen una serie de excepciones en los que no se aplica SARA especificadas en los art. 19.2. De manera muy sintetizada, serían los contratos relacionados con los servicios siguientes:
+
+- Comunicación audiovisual
+- Defensa
+- Secretos o reservados
+- Comunicaciones
+- Servicios jurídicos
+- Defensa civil, protección civil o gestión de riesgos
+- Transporte público
+- Abastecimiento y tratado de agua
+
+#### Implicaciones SARA {.unnumbered .unlisted}
+
+El resumen de las implicaciones para los contratos bajo regulación armonizada respecto las no SARA son:
+
+- El anuncio deben publicarse en el Diario Oficial de la Unión Europea (en lugar del BOE).
+- Plazos más largos y pasos adicionales que ralentizan el proceso.
+- Rigidez en las modificaciones.
+
+### Aprobación por Consejo de Ministros
+
+El Consejo de Ministros debe aprobar el contrato cuando su importe supere los 12.000.000 €. Esto está definido en el art. 32.6.c del LCSP.
+
+### Plazo de ejecución
+
+El plazo de ejecución se especifica en el pliego, sin que exista un plazo máximo. Los plazos de ejecución se regulan en el art. 210 de la ley 9/2017.
+
+### Prórrogas en concesiones
+
+Las prórrogas de las concesiones deben ser acordadas entre la entidad contratante y el contratista.
+
+Vienen reguladas en el art. 205 de la ley 9/2017.
+
 ### (Paso 8) División en lotes
 
 Está regulado en el artículo 99 del LCSP.
@@ -581,10 +633,18 @@ Corenet es una aplicación de la Intervención General de la Administración del
 Convocatorias/tareas: 2020.8
 :::
 
-Si se trata de contratación no centralizada y que no es regulación armonizada, el responsable es la Junta de Contratación del Ministerio u organismo público..
+Si se trata de contratación no centralizada y que no es regulación armonizada, el responsable es la Junta de Contratación del Ministerio u organismo público.
 
-Si se trata de contratación no centralizada y bajo regulación armonizada SARA, el responsable de contratación e es el Ministro, Presidente o Director, dependiendo de si se trate de un Ministerio u otro organismo público.
+Si se trata de contratación no centralizada y bajo regulación armonizada SARA, el responsable de contratación es el Ministro, Presidente o Director, dependiendo de si se trate de un Ministerio u otro organismo público.
 
 En caso de ser un AM, el responsable es la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).
 
 En caso de ser un SDA, la admisión de proveedores la realiza la DGRCC durante la creación del SDA y la compra la hace el destinatario en la fase de contrato específico.
+
+## Modificaciones del contrato
+
+En el caso de contratos, los artículos 204-206 contemplan la posibilidad de aplicar modificaciones, solo en determinadas circunstancias.
+
+ El art. 204 contempla la posibilidad de realizar **modificaciones previstas en contrato** a los límites económicos, con hasta un máximo del 20% del precio inicial, siempre y cuando el Pliego de Cláusulas Administrativas Particulares (PCAP) haya recogido esta posibilidad de forma clara y precisa.
+
+El art. 205 contempla la posibilidad de realizar **modificaciones no previstas en contrato**, especificando ciertos escenarios. En el art. 206 se especifica que si estas modificaciones son iguales o inferiores al 20%, el contratista está obligado a aceptarla. En otro caso, se aplicarán solo si el contratista está de acuerdo.

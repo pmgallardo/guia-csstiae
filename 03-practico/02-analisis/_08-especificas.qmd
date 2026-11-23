@@ -492,8 +492,11 @@ La Comisión Nacional de los Mercados y la Competencia (CNMC) es una Autoridad A
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Marco normativo:
+  - UE
+    - [Reg(UE) 2021/1058](#CELEX:32021R1058). FEDER y Fondo de Cohesión.
+    - [Reg(UE) 2021/1060](#CELEX:32021R1060). REG
   - ES
-    - L 38/2003 General de Subvenciones
+    - [L 38/2003](#BOE-A-2003-20977). Ley General de Subvenciones
 :::
 
-
+Establece los objetivos específicos, el alcance de las ayudas, la concentración temática y las exclusiones del FEDER y del Fondo de Cohesión en el periodo 2021-2027.

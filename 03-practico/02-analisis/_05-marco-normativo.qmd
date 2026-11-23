@@ -35,18 +35,15 @@ Fue publicada en 2020.
 
 A partir de 2015 se cambió la numeración de las normativas, poniendo primero el año y después el número de la normativa.
 
-<!-- ### Reg(UE) 910/2014. eIDAS {#CELEX:32014R0910}
-
-:::{.callout-warning}
-## 🕸️Obsoleto
-eIDAS fue sustituido por eIDAS 2 en 2025.
-:::
+### Reg(UE) 910/2014. eIDAS {#CELEX:32014R0910}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Referencias
   - [R(UE) 910/2014 en EUR-Lex](https://eur-lex.europa.eu/eli/reg/2014/910/oj?locale=es)
-::: -->
+:::
+
+**eIDAS** se mantiene vigente aun tras la promulgación del [eIDAS 2](#CELEX:32024R1183), que lo modifica y amplía.
 
 ### Dir(UE) 2014/24. Contratación pública {#celex:32014L0024}
 
@@ -62,7 +59,7 @@ Dir(UE) 2014/24. Contratación pública se traspuso en España con la [Ley 9/201
 
 Accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público.
 
-Fue transpuesta en España por el RD 1112/2018.
+Fue transpuesta en España a través del [RD 1112/2018](#BOE-A-2018-12699).
 
 #### Reg(UE) 2016/679. RGPD {#CELEX:32016R0679}
 
@@ -109,6 +106,61 @@ La Dir(UE) 2019/1024 se traspuso en España con el RDL 24/2021, que modificó la
 :::
 
 El Programa Europa Digital es una iniciativa de financiación de la Unión Europea para el periodo 2021-2027 destinada a impulsar la transformación digital en empresas, ciudadanos y administraciones públicas.
+
+#### Reg(UE) 2021/1058. FEDER y Fondo de Cohesión {#CELEX:32021R1058}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias
+    - [Reg(UE) 2021/1058 en EUR-Lex](http://data.europa.eu/eli/reg/2021/1058/oj){target="_blank"}
+:::
+
+El **Reg(UE) 2021/1058** define los objetivos, el alcance, la temática y las exclusiones de los mecanismos de financiación de cohesión europea FEDER y Fondo de Cohesión.
+
+El **Fondo de Cohesión** solo aplica a los Estados miembros con una Renta Nacional Bruta (RNB) inferior al 90% de la media europea. En 2021-2027 lo reciben 15 países, entre los que no está España, que dejó de recibirlos en 2014.
+
+El **Fondo Europeo de Desarrollo Regional** (**FEDER**) es un fondo basado en el reembolso de costes reales, e incluye tanto subvenciones a fondos perdidos como instrumentos financieros (como préstamos y garantías). 
+
+Los fondos FEDER se financian mediante un sistema de cofinanciación entre la propia UE y los Estados miembros. Para la parte de la UE, provienen del presupuesto general de la Unión Europea.
+
+En este reglamento se especifica en qué se pueden gastar los fondos y quién puede recibirlos, y se complementa con el [Reg(UE) 2021/1060](#CELEX:32021R1060) (RDP) que especifica cómo se tramitan.
+
+Se establecen 5 grandes **Objetivos Políticos** (OP):
+
+* **OP1**: Europa más **competitiva e inteligente**.
+* **OP2**: Europa más **verde**.
+* **OP3**: Europa más **conectada**.
+* **OP4**: Europa más **social e inclusiva**.
+* **OP5**: Europa más **próxima a los ciudadanos**.
+
+El OP1 está orientado especialmente a pymes, dejando las grandes empresas muy acotadas a supuestos muy específicados (cooperación con pymes o I+D+i).
+
+La norma obliga a que la mayor proporción del presupuesto vaya a OP1 y OP2.
+
+El art. 5 establece el alcance de la ayuda, y el art. 7 las exclusiones.
+
+Ha recibido reformas posteriores, como en el Reg(UE) 2025/1914.
+
+#### Reg(UE) 2021/1060. Reglamento de Disposiciones Comunes (RDC) {#CELEX:32021R1060}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias
+    - [Reg(UE) 2021/1058 en EUR-Lex](http://data.europa.eu/eli/reg/2021/1060/oj){target="_blank"}
+:::
+
+El **Reglamento de Disposiciones Comunes** (**RDC**) regula las instrucciónes sobre cómo programar, gestionar, controlar, pagar y auditar 8 fondos europeos, entre ellos el FEDER y el Fondo de Cohesión.
+
+Además del beneficiario, entran en juego las siguientes figuras:
+
+- Autoridad de Gestión (AG)
+- Autoridad de Auditoría (AA)
+- Función Contable
+- Beneficiario
+
+Establece las reglas de subvencionabilidad del gasto y medidas de control, antifraude y visibilidad
+
+Está acotado a los gastos incurridos entre 2021-2029.
 
 #### Dir(UE) 2022/2555. NIS2 {#CELEX:32022L2555}
 
@@ -173,12 +225,12 @@ La Ley de Datos de la Unión Europea (Data Act) es un reglamento aplicable que b
   - [R(UE) 2024/1689 en EUR-Lex](http://data.europa.eu/eli/reg/2024/1689/oj?locale=es){target="_blank"}
 :::
 
-Clasifica los sistemas en 4 categorías con distintas obligaciones:
+La norma clasifica los sistemas en 4 categorías con distintas obligaciones:
 
 - **Prohibidas**: técnicas subliminales, biometría en tiempo real, *scoring* social.
-- **Alto riegos**: Incluye el acceos a servicios públicos esenciales. Obligaciones de registro, evaluación, supervisión humana, seguridad.
+- **Alto riego**: Incluye el acceso a servicios públicos esenciales. Obligaciones de registro, evaluación, supervisión humana, seguridad.
 - **Riesgo limitado**: Servicios públicos no esenciales (ej. chatbot). Obligaciones de transparencia e informar de que se usa IA.
-- **Riesgo mínimo**: Filtros de spam o videojuegos. Sin obligaciones.
+- **Riesgo mínimo**: (ej. filtros de spam o videojuegos.) Sin obligaciones.
 
 Roles:
 
@@ -343,6 +395,14 @@ El PRTR se concibió con fecha límite hasta agosto 2026.
 :::
 
 Se detalla en el apartado [PRTR](#PRTR) de Estrategias. -->
+
+#### RD 1112/2018. Accesibilidad {#BOE-A-2018-12699}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias
+  - [RD 1112/2018](https://www.boe.es/eli/es/rd/2018/09/07/1112/con){target="_blank"}
+:::
 
 #### RD 311/2022. ENS {#BOE-A-2022-7191}
 

@@ -118,3 +118,7 @@ Propoponer un stack de código abierto otorga la ventaja de evitar costes de lic
 - Framework backend: Spring Boot (Java)
 - Servidor aplicación: RedHat WildFly (monolítico) / Apache Tomcat (microservicios)
 - Base de datos: PostgreSQL
+
+::: {.callout-warning collapse="false" icon="true"}
+El software de código abierto no supone coste en materia de licenciamiento, pero sí podría suponerlo en concepto de implantación, soporte, mantenimiento o suscripción a servicios adicionales de pago.
+:::

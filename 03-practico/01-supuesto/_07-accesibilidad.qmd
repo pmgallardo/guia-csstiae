@@ -1,0 +1,11 @@
+## Accesibilidad (supuesto práctico) {#accesibilidad-supuesto-practico}
+
+La normativa obliga a que las webs y apps del sector público sean accesibles aplicando ciertos estándares, y están sujetos a auditorías de accesibilidad.
+
+La accesibilidad por tanto condiciona a la hora de escoger soluciones que faciliten y permitan alcanzar los estándares marcados.
+
+En el contexto de las páginas web, as etiequetas o atributos ARIA (*Accesible Rich Internet Applications*) son atritbutos que se incluyen en los elementos HTML y que facilitan la lectura a través de lectores automáticos.
+
+Las 5 reglas WAI-ARIA (*Accesible Rich Internet Applications*).
+
+Para más detalle sobre la normativa, ver el apartado de accesibilidad del [análisis pormenorizado](#02-analisis.qmd#accesibilidad-analisis-pormenorizado).

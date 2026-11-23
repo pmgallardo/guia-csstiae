@@ -228,7 +228,7 @@ El Plan de Gobierno Abierto actual es el V Plan de Gobierno Abierto 2025-2029. C
     - D(UE) 2016/2102. Accesibilidad de los sitios webs y aplicaciones para dispositivos móviles de los organismos del sector público
   - ES
     - **RD 1494/2007**. Accesibilidad a la sociedad de la información y medios
-    - **RD 1112/2018**. Accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público
+    - **[RD 1112/2018](#BOE-A-2018-12699)**. Accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público
 - Organismos
   - Observatorio de Accesibilidad
 - Estándares
