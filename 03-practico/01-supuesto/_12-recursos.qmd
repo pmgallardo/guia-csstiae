@@ -220,7 +220,8 @@ Estimación por puntos de función (versión simplificada):
 ## 📋 Marco de referencia
 - Referencias:
   - Ministerio de Administraciones Pública. Apartado "Método Albrecht para el Análisis de los Puntos Función". En: [Métrica v3. Técnicas](https://administracionelectronica.gob.es/pae_Home/dam/jcr:da7d91fa-d6bd-467c-be32-a72e27c603b3/METRICA_V3_Tecnicas.pdf){target="_blank"}. PAe.
-  - Manuel Cillero. [Método Albrecht para el Análisis de los Puntos de Función](https://web.archive.org/web/20201130171738/https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/tecnicas-de-estimacion/metodo-albrecht/){target="_blank"}. manuel.cillero.es
+  - [Método Albrecht para el Análisis de los Puntos de Función](https://pmgallardo.github.io/metrica-v3/03-tecnicas/01-tecnicas.html#metodo-albrecht){target="_blank"}. pmgallardo.github.io.
+  <!-- - Manuel Cillero. [Método Albrecht para el Análisis de los Puntos de Función](https://web.archive.org/web/20201130171738/https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/tecnicas-de-estimacion/metodo-albrecht/){target="_blank"}. manuel.cillero.es -->
   - Apartado 2.1. "Puntos Función". En: Estimación. Preparatic 28, 2026.
 - Temas:
   - 99. Estimación de recursos
@@ -322,7 +323,8 @@ Por último se dividen los puntos de función ajustados por un valor puntos de f
 ## 📋 Marco de referencia
 - Referencias:
   - Ministerio de Administraciones Pública. Apartado "Método MARK II para el Análisis de los Puntos Función". En: [Métrica v3. Técnicas](https://administracionelectronica.gob.es/pae_Home/dam/jcr:da7d91fa-d6bd-467c-be32-a72e27c603b3/METRICA_V3_Tecnicas.pdf){target="_blank"}. PAe.
-  - Manuel Cillero. [Método MARK II para el Análisis de los Puntos de Función](https://web.archive.org/web/20200929084004/https://manuel.cillero.es/doc/metrica-3/tecnicas/tecnicas-de-estimacion/metodo-mark-ii/){target="_blank"}. manuel.cillero.es.
+  - [Método MARK II para el Análisis de los Puntos de Función](https://pmgallardo.github.io/metrica-v3/03-tecnicas/01-tecnicas.html#metodo-mark-ii){target="_blank"}. pmgallardo.github.io.
+  <!-- - Manuel Cillero. [Método MARK II para el Análisis de los Puntos de Función](https://web.archive.org/web/20200929084004/https://manuel.cillero.es/doc/metrica-3/tecnicas/tecnicas-de-estimacion/metodo-mark-ii/){target="_blank"}. manuel.cillero.es. -->
 - Temas:
   - 99. Estimación de recursos
 :::

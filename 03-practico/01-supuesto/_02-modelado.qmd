@@ -153,7 +153,7 @@ Diagrama de clases pertenece a la familia de diagramas UML.
   - 92. Diseño arquitectónico de sistemas
 - Referencias
   - [Métrica v3](https://pmgallardo.github.io/metrica-v3/03-tecnicas/01-tecnicas.html#diagrama-de-despliegue){target="_blank"}. GitHub Pages.
-  - Manuel Cillero. [Diagramas de despliegue en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-despliegue/){target="_blank"}
+  <!-- - Manuel Cillero. [Diagramas de despliegue en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-despliegue/){target="_blank"} -->
 :::
 
 El diagrama de despliegue pertenece a la familia de diagramas UML, y está entre los incluidos en Métrica v3.

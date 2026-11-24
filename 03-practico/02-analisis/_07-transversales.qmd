@@ -219,7 +219,7 @@ El Plan de Gobierno Abierto actual es el V Plan de Gobierno Abierto 2025-2029. C
 9. Compromiso 9. Observatorio de Gobierno Abierto
 10. Compromiso 10. Estado abierto
 
-### Accesibilidad (análisis pormenorizado)
+### Accesibilidad (análisis pormenorizado) {#accesibilidad-analisis-pormenorizado}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -433,11 +433,3 @@ El vocal titular L. A. Hernández es profesor universitario de Inteligencia Arti
 - Referencias:
   - [Inteligencia artificial](https://digital.gob.es/digitalizacion/areas-interes/inteligencia-artificial). digital.gob.es.
 :::
-
-La ley actúa principalmente en:
-
-1. Prohibición de prácticas de "riesgo inaceptable"
-2. Control estricto en áreas de "alto riesgo"
-3. Obligación de supervisión humana
-4. Transparencia obligatoria ante el ciudadano
-5. Alfabetización obligatoria en IA

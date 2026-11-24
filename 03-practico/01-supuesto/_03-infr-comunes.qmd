@@ -10,15 +10,21 @@
   - 49. Infraestructuras y servicios comunes
 :::
 
-### RedSARA
+El [catálogo de servicios de Administración digital](https://administracionelectronica.gob.es/estrategias/racionaliza-comparte/catalogo-servicios) (a partir de ahora referido por sus siglas, CSAD) del Portal de la Administración Electrónica es un inventrio de los servicios comunes, transversales y infraestructuras y soluciones tecnológicas compartidas de las AAPP están listadas en 
+
+El CSAD de 2018 (último al escribir estas líneas) incluye los siguientes servicios comunes:
+
+### Comunicaciones SARA
+
+#### RedSARA
 
 RedSARA (Sistemas de Aplicaciones y Redes para las administraciones)
 
-### sTESTA
+#### sTESTA
 
 **sTESTA** es una red transeuropea que incluye a las instituciones públicas europeas y de los estados europeos. RedSARA enlaza con la red sTESTA.
 
-### Servicio Unificado de Telecomunicaciones
+### Servicio Unificado de Telecomunicaciones {#servicio-unificado-de-telecomunicaciones}
 
 El **servicio unificado de telecomunicaciones** (**SUT**) trata de proporcionar una red corporativa única, común y que dé servicio a todo el Sector Público Administrativo Estatal. El servicio define cuatro lotes:
 
@@ -27,33 +33,31 @@ El **servicio unificado de telecomunicaciones** (**SUT**) trata de proporcionar 
 - Lote 3: Internet (adjudicado a Telefónica)
 - Lote 4: Red internacional (adjudicado a BT)
 
+### Servicio de seguridad gestionada
+
 ### Servicio de alojamiento de infraestructuras TIC
 
-### Nube (supuesto práctico)
+### Servicio de nube híbrida NubeSARA {#nubesara}
 
-::: {.callout-note collapse="true" icon="false"}
-## 📝 Apariciones en examen
-Convocatorias/tareas: 2022.2, 2020.4
+::: {.callout-warning icon="false" collapse="true"}
+## 🥇Temática candidata N1
+La secretaria suplente del Tribunal trabajó en nubeSARA entre 2018 y 2026.
 :::
 
-Ventajas del uso de la nube:
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias
+  - [NubeSARA](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=nubesara), PAe.
+:::
 
-- Elasticidad
-- Rapidez en el despliegue
+NubeSARA es un servicio compartido de nube híbrida disponible en exclusiva para las AAPP, prestado por la Agencia Estatal de Administración Digital (AEAD). Los organismos del sector público tienen esta infraestructura disponible desde la Red SARA. Es necesario establecer un convenio con la AEAD para su uso.
 
-Desventajas del uso de la nube:
+NubeSARA se lleva a cabo en una serie de CPDs disponibles. Hay 3 CPDs: Moncloa (el histórico), El Escorial (empleado sobre todo por las Fuerzas de Seguridad) y Las Rozas (en desarrollo).
 
-- Costes recurrentes
-- Seguridad
+Cumplen el Tier IV.
 
-En caso de optar por la nube, se considera conveniente el uso de [NubeSARA](#nubesara), una nube híbrida exclusiva para el ámbito de las AAPP a través de la AEAD, puesto que el servicio transversal de nube híbrida, y por tanto obligatoria y sustitutiva.
+Los costes de NubeSARA se detallan en el apartado sobre costes.
 
-Las soluciones basadas en otros hiperescalares ofrecidos por proveedores privados (como Azure, AWS o GCP), si bien tienen cierta presencia en la AGE, solo tiene usos muy determinados y generalmente chocan con cuestiones sobre soberanía del dato, seguridad nacional y privacidad, por lo que su propuesta no se considera generalmente una buena opción. En caso de usarse, debería estar debidamente justificado.
-
-Dependiendo del tipo de despliegue del servicio en la nube a contratar (SaaS, PaaS, IaaS), existen varias opciones de contratación.
-
-En caso de contratar una infraestructura en la nube (IaaS) de un proveedor privado, solo se puede recurrir a un procedimiento abierto. No aplicarían ninguno de los SDAs disponibles, ni siquiera el SDA 24/2022 (suministros de servidores y sistemas de almacenamiento) ni el SDA 25/2022 (suministros de software), ya que ninguno de los disponibles tiene como objeto obtener servicios en la nube.
-
-En caso de contratar un servicio de software (SaaS) de un proveedor privado, se podría emplear el SDA 25/2022 (suministros de software) o un procedimiento abierto.
-
-### Servicio de seguridad gestionada
+::: {.callout-warning icon="true"}
+Puesto que NubeSARA es un servicio compartido, no aplican en estos casos procedimientos abiertos o mecanismos de contratación centralizados como acuerdos marcos (AM) o sistemas dinámicos de adquisición (SDA).
+:::

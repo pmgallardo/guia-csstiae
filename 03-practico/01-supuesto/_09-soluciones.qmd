@@ -32,7 +32,16 @@ La tecnología web front-end más empleada en la AGE es Angular, que emplea el l
 
 A cierta distancia, la segunda tecnología más utilizada es React, que emplea el lenguaje de programación JavaScript. Se usa para aplicaciones híbridas y con interfaz cambiante y muy interactivos.
 
-Bootstap se usa también de manera minoritaria para aplicaciones web o móvil con interfaz sencilla.
+**DINTEL** (acrónimo de Diseño Normalizado para Tramitación Tecnológica) es un sistema de diseño institucional enfocado al sector público español y mantenido por la AEAD. Está diseñado para combinarse con frameworks front como Angular, React o Vue.js. Fue creado en abril 2023.
+
+Las ventajas del uso de DNTEL incluyen:
+
+- Cumplimiento por defecto del [RD 1112/2018](02-analisis.qmd#BOE-A-2018-12699), de accesibilidad en aplicaciones del sector público.
+- Adopción de imagen corporativa.
+
+DINTEL sería sustitutivo de frameworks CSS como Bootstrap o Tailwind CSS; si bien el uso de cualquiera estos frameworks es técnicamente correctos, puede ser penalizado por el Tribunal al haber escogido la solución desarrollada a medida para la AGE. De usarse, debería estar debidamente justificado.
+
+**Bootstrap** se usa también de manera minoritaria para aplicaciones web o móvil con interfaz sencilla.
 
 #### Tecnología web back-end
 
@@ -56,7 +65,13 @@ Se concluye leyendo este informe que las aplicaciones móviles de la AGE están 
 
 **Ionic** proporciona componentes específicos para móvil adaptados a cada SO y se basa en un WebView, es decir, una web inscrustada en una app de móvil. Puede combinarse con Angular u otro framework web o ejecutarse independientemente. Por defecto emplea el lenguaje TypeScript, aunque es también compatible con JavaScript.
 
-**Angular** es una buena opción si es necesaria una misma app para web y móvil. Es conveniente que esta web sea responsiva (se adapta a la pantalla con fluidez) o adaptativa (considera distintas configuraciones y escoge la más adecuada), lo cual se consigue con frameworks CSS como Bootstrap o Tailwind CSS.
+**Angular** es una buena opción si es necesaria una misma app para web y móvil.
+
+
+
+Es conveniente que esta web sea responsiva (se adapta a la pantalla con fluidez) o adaptativa (considera distintas configuraciones y escoge la más adecuada), lo cual se consigue mediante el sistema de diseño DINTEL.
+
+
 
 Para la solución basadas en WebView (como Angular y Ionic), se puede emplear **Capacitor** (el reemplazo de Apache Cordova) como puente entre el dispositivo móvil y la ventana de navegación interna (WebView) en la que se ejecuta la app web de Angular. Proporciona acceso al hardware y permite al usuario mostrar la aplicación como una app.
 

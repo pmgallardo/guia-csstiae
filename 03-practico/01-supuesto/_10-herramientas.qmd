@@ -75,6 +75,33 @@ En ocasiones se llama a estas herramientas orquestador, ya que automatiza otros 
 
 **Jenkins** es una herramienta de integración continua y despliegue continuo (CI/CD) de código abierto muy popular en la industria y en la AGE.
 
+#### Nube (supuesto práctico)
+
+::: {.callout-note collapse="true" icon="false"}
+## 📝 Apariciones en examen
+Convocatorias/tareas: 2022.2, 2020.4
+:::
+
+Ventajas del uso de la nube:
+
+- Elasticidad
+- Rapidez en el despliegue
+
+Desventajas del uso de la nube:
+
+- Costes recurrentes
+- Seguridad
+
+En caso de optar por la nube, se considera conveniente el uso de [NubeSARA](#nubesara), una nube híbrida exclusiva para el ámbito de las AAPP a través de la AEAD, puesto que el servicio transversal de nube híbrida, y por tanto obligatoria y sustitutiva.
+
+Las soluciones basadas en otros hiperescalares ofrecidos por proveedores privados (como Azure, AWS o GCP), si bien tienen cierta presencia en la AGE, solo tiene usos muy determinados y generalmente chocan con cuestiones sobre soberanía del dato, seguridad nacional y privacidad, por lo que su propuesta no se considera generalmente una buena opción. En caso de usarse, debería estar debidamente justificado.
+
+Dependiendo del tipo de despliegue del servicio en la nube a contratar (SaaS, PaaS, IaaS), existen varias opciones de contratación.
+
+En caso de contratar una infraestructura en la nube (IaaS) de un proveedor privado, solo se puede recurrir a un procedimiento abierto. No aplicarían ninguno de los SDAs disponibles, ni siquiera el SDA 24/2022 (suministros de servidores y sistemas de almacenamiento) ni el SDA 25/2022 (suministros de software), ya que ninguno de los disponibles tiene como objeto obtener servicios en la nube.
+
+En caso de contratar un servicio de software (SaaS) de un proveedor privado, se podría emplear el SDA 25/2022 (suministros de software) o un procedimiento abierto.
+
 ### Soluciones de aseguramiento de la calidad del software
 
 #### Pruebas unitarias

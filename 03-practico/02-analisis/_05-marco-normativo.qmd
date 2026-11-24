@@ -22,7 +22,7 @@ Abreviaturas usadas para cada tipo de regulación, de acuerdo al ELI:
 
 ### Marco normativo europeo
 
-### Carta de los derechos fundamentales de la Unión Europea {#CELEX:12016P/TXT}
+#### Carta de los derechos fundamentales de la Unión Europea {#celex-12016p-txt}
 
 ::: {.callout-note icon="false"}
 ## 📋Marco de referencia
@@ -35,7 +35,7 @@ Fue publicada en 2020.
 
 A partir de 2015 se cambió la numeración de las normativas, poniendo primero el año y después el número de la normativa.
 
-### Reg(UE) 910/2014. eIDAS {#CELEX:32014R0910}
+#### Reg(UE) 910/2014. eIDAS {#CELEX:32014R0910}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -45,7 +45,7 @@ A partir de 2015 se cambió la numeración de las normativas, poniendo primero e
 
 **eIDAS** se mantiene vigente aun tras la promulgación del [eIDAS 2](#CELEX:32024R1183), que lo modifica y amplía.
 
-### Dir(UE) 2014/24. Contratación pública {#celex:32014L0024}
+#### Dir(UE) 2014/24. Contratación pública {#celex:32014L0024}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -55,13 +55,13 @@ A partir de 2015 se cambió la numeración de las normativas, poniendo primero e
 
 Dir(UE) 2014/24. Contratación pública se traspuso en España con la [Ley 9/2017](BOE-A-2017-12902).
 
-### Dir(UE) 2016/2102. Accesibilidad desde móviles al sector público
+#### Dir(UE) 2016/2102. Accesibilidad desde móviles al sector público
 
 Accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público.
 
 Fue transpuesta en España a través del [RD 1112/2018](#BOE-A-2018-12699).
 
-#### Reg(UE) 2016/679. RGPD {#CELEX:32016R0679}
+##### Reg(UE) 2016/679. RGPD {#CELEX:32016R0679}
 
 R(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).
 
@@ -102,10 +102,20 @@ La Dir(UE) 2019/1024 se traspuso en España con el RDL 24/2021, que modificó la
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Referencias
-    - [R(UE) 2021/694 en EUR-Lex](http://data.europa.eu/eli/reg/2021/694/oj?locale=es){target="_blank"}
+  - [R(UE) 2021/694 en EUR-Lex](http://data.europa.eu/eli/reg/2021/694/oj?locale=es){target="_blank"}
 :::
 
-El Programa Europa Digital es una iniciativa de financiación de la Unión Europea para el periodo 2021-2027 destinada a impulsar la transformación digital en empresas, ciudadanos y administraciones públicas.
+El **Programa Europa Digital** es una iniciativa de financiación de la Unión Europea para el periodo 2021-2027 destinada a impulsar la transformación digital en empresas, ciudadanos y administraciones públicas.
+
+Se regula en el Reg(UE) 2021/694.
+
+Establece 5 objetivos específicos en su art. 3:
+
+1. (Supercomputación) Informática de alto rendimiento
+2. Inteligencia artificial
+3. Ciberseguridad y confianza
+4. Capacidades digitales avanzadas
+5. Despliegue y mejor uso de la capacidad digital e interoperabilidad
 
 #### Reg(UE) 2021/1058. FEDER y Fondo de Cohesión {#CELEX:32021R1058}
 
@@ -237,6 +247,14 @@ Roles:
 - **Responsable de despliegue**
 - **Proveedor**
 
+La ley actúa principalmente en:
+
+1. Prohibición de prácticas de "riesgo inaceptable"
+2. Control estricto en áreas de "alto riesgo"
+3. Obligación de supervisión humana
+4. Transparencia obligatoria ante el ciudadano
+5. Alfabetización obligatoria en IA
+
 ### Marco normativo español
 
 #### L 29/1998. Juridisción contencioso-administrativa {#BOE-A-1998-16718}
@@ -333,7 +351,7 @@ Fue derogado por el RD 615/2024.
 
 Real Decreto 919/2014, de 31 de octubre, por el que se aprueba el Estatuto del Consejo de Transparencia y Buen Gobierno. -->
 
-### RDLg 5/2015. Estatuto Básico del Empleado Público (EBEP) {#BOE-A-2015-11719}
+#### RDLg 5/2015. Estatuto Básico del Empleado Público (EBEP) {#BOE-A-2015-11719}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia

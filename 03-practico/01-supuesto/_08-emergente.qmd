@@ -27,7 +27,7 @@ Blockchain tuvo su momento álgido durante mediados de los 2010s, cuando se popu
 Convocatorias/tareas: 2020.6
 :::
 
-### Inteligencia Artificial / Automatización
+### Inteligencia Artificial
 
 ::: {.callout-note collapse="true" icon="false"}
 ## 📝 Apariciones en examen
@@ -39,6 +39,10 @@ Convocatorias/tareas: 2019.7
 - Referencias
   - Luis Esteban. [Aplicacion de IA en el Ayuntamiento de Madrid](https://www.youtube.com/live/LHpSYAznhOs?start=5451). Canal "PreparaTIC" en YouTube, 25/04/2026.
 :::
+
+El uso de inteligencia artificial supone el cumplmiento del [Reg(UE) 2024/1689](#CELEX:32024R1689) (ley IA).
+
+#### Aprendizaje automático
 
 Se puede aplicar mecanismos de aprendizaje automático, supervisado o no supervisado dependiendo de si se cuenta con un conjunto de entrenamiento etiquetado.
 
@@ -118,3 +122,7 @@ Reglamento (UE) 2024/1689 "AI Act" se aplica de forma escalonada en 2027.
 Agencia Española de Supervisión de Inteligencia Artificial (AESIA)
 
 Las soluciones con IA suelen ser más caras.
+
+#### iBPMS
+
+Intelligent Business Process Management Suite (iBPMS)

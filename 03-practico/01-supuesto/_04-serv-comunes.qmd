@@ -17,85 +17,99 @@ Los servicios comunes emplean una terminología que se publicó originalmente en
 
 Se define un **servicio común** como un servicio electrónico disponible desde cualquiera de las AAPP. En este apartado se describen los relevantes para el ejercicio práctico.
 
+Entre los servicios comunes algunos se consideran [servicios transversales](#servicios-transversales).
+
 El [Centro de Transferencia Tecnológica (CTT)](02-analisis.qmd#ctt), alojado en el PAe, se encarga de inventariar y compartir los servicios comunes.
 
-Los servicios comunes, infraestructuras y soluciones tecnológicas compartidas de las AAPP están listadas en el [catálogo de servicios de Administración digital](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Racionaliza_y_Comparte/catalogo-servicios-admon-digital.html) del Portal de la Administración Electrónica.
+El [CSAD](https://administracionelectronica.gob.es/estrategias/racionaliza-comparte/catalogo-servicios) de 2018 (último al escribir estas líneas) incluye las siguientes categorías de servicios comunes:
 
-Entre los servicios comunes algunos se consideran servicios transversales.
-
-Un **servicio transversal** es aquel que ha sido declarado como tal por la Comisión de Estrategia TIC (CETIC), a propuesta del Consejo Rector de la AEAD, y que tiene carácter obligatorio y sustitutivo. Este servicio cubre necesidades horizontales comunes a varias unidades de la AGE, en contraposición con el término **servicio sectorial**. 
-
-El término "servicio transversal" sustituye al de "servicio compartido" desde el RD 1125/2024.
-
-La CETIC declaró 14 servicios transversales de la AGE en 2025:
-
-- Servicio Unificado de Telecomunicaciones
-- Servicio de Seguridad Gestionada
-- Servicio de Alojamiento de Infraestructura TIC
-- Servicio de Nube Híbrida
-- Servicio de Correo Electrónico
-- Servicio Multicanal de Atención al Ciudadano
-- Servicio de Gestión del Registro
-- Gestión de Notificaciones
-- Gestión de Nómina
-- Servicio Integrado de Gestión de Personal
-- Servicio Común de Gestión Económico-Presupuestaria
-- Servicio común de generación y validación de firmas electrónicas
-- Servicio de gestión y documentos electrónicos
-- Servicio de gestión de archivo electrónico
+- Administración digital y servicios al ciudadano
+  - Identidad digital y firma electrónica
+  - Registros y representación del ciudadano ante las AAPP
+  - Atención al ciudadano y empresa
+  - Intercambio de información entre Administraciones Públicas
+  - Sistemas de información transversales
+  - Comunicaciones y notificaciones al ciudadano
+  - Expediente, documento y archivo electrónico
+  - Apoyo a la tramitación administrativa
+  - Comunicación y difusión
+  - Reutilización
+  - Utilidades para portales y servicios públicos
+- Gestión interna
+  - Comunicación y mensajería
+  - Recursos Humanos
+  - Gestión de subvenciones
+  - Otros servicios de gestión interna
 
 ::: {.callout-warning icon="true"}
-En el ejercicio práctico, se deben mencionar solo los servicios comunes o transversales que sean relevantes. Tan malo es poner de menos como poner de más.
+En el ejercicio práctico, se deben mencionar solo los servicios comunes que sean relevantes. Tan malo es poner de menos como poner de más.
 :::
 
-### Servicio Unificado de Telecomunicaciones (SUT)
+### Identidad digital y firma electrónica
 
-El Servicio Unificado de Telecomunicaciones (SUT) es una red corporativa única para las sedes del Estado.
-
-Se explica en infraestructuras comunes.
-
-### Servicio de Seguridad Gestionada
-
-###  Servicio de Alojamiento de Infraestructura TIC
-
-###  Servicio de Nube Híbrida
-
-#### NubeSARA {#nubesara}
-
-::: {.callout-warning icon="false" collapse="true"}
-## 🥇Temática candidata N1
-La secretaria suplente del Tribunal trabajó en nubeSARA entre 2018 y 2026.
-:::
+#### Cl@ve {#clave}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Referencias
-  - [NubeSARA](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=nubesara), PAe.
+  - [Cl@ve en CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=clave). PAe.
 :::
 
-NubeSARA es un servicio compartido de nube híbrida disponible en exclusiva para las AAPP, prestado por la Agencia Estatal de Administración Digital (AEAD). Los organismos del sector público tienen esta infraestructura disponible desde la Red SARA. Es necesario establecer un convenio con la AEAD para su uso.
+**Cl@ve** es un servicio para la identificación, autenticación y firma electrónica orientado al ciudadano.
 
-NubeSARA se lleva a cabo en una serie de CPDs disponibles. Hay 3 CPDs: Moncloa (el histórico), El Escorial (empleado sobre todo por las Fuerzas de Seguridad) y Las Rozas (en desarrollo).
+Existen las siguientes variantes:
 
-Cumplen el Tier IV.
+- Cl@ve permanente
+- Cl@ve móvil
 
-Los costes de NubeSARA se detallan en el apartado sobre costes.
+No se debe confundir con el servicio transversal de firma electrónica [Cl@ve Firma](#clave-firma).
 
-::: {.callout-warning icon="true"}
-Puesto que NubeSARA es un servicio compartido, no aplican en estos casos procedimientos abiertos o mecanismos de contratación centralizados como acuerdos marcos (AM) o sistemas dinámicos de adquisición (SDA).
+#### AutenticA {#autentica}
+
+**AutenticA** tiene una función similar a Cl@ve pero está orientado al personal de AAPP.
+
+Funciona como un "Directorio Activo" o repositorio unificado que permite a los funcionarios y personal autorizado loguearse en las aplicaciones de gestión de la AGE (como GEISER o Portafirmas).
+
+#### @firma {#afirma}
+
+**@firma** es el servicio central de validación de firma electrónica de la AGE.
+
+No confundir con el servicio de autenticación [Cl@ve Firma](#clave-firma).
+
+#### VALIDe {#valide}
+
+Validación de firmas y certificados online (VALIDe) es una aplicación web creada por la SGAD que permite a los ciudadanos validar la firma electrónica de los documentos. Emplea [@firma](#afirma) como backend.
+
+#### Cl@ve Firma {#clave-firma}
+
+**Cl@ve Firma** es un servicio de firma electrónica en la nube.
+
+No se debe confundir con el servicio transversal de autenticación [Cl@ve](#clave) ni con el servicio de validación [@firma](#afirma).
+
+#### FIRe {#fire}
+
+La **FIRe** (solución integral de firma electrónica) es una pasarela que unifica las distintas soluciones que pueden emplear las aplicaciones cuando trabajan con firmas.
+
+FIRe permite, por ejemplo, escoger entre realizar una firma con un servicio en local (mediante el software Autofirma) o con uno en la nube (Cl@ve Firma) o verificar una firma contra @firma.
+
+FIRe está disponible tanto como servicio en la nube como software instalado en local.
+
+#### Port@firmas {#portafirmas}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias:
+  - [Portafirmas en CTT](https://administracionelectronica.gob.es/ctt/portafirmas). PAe.
+  - [Portafirmas General del Estado](https://pf.seap.minhap.es)
 :::
 
-###  Servicio de Correo Electrónico
+**Portafirmas** (en ocasiones estilizado como **Port@firmas**) es una plataforma digital para empleados de la administración pública que muestra los documentos pendientes de firmar en un organismo y permite la incorporación de la firma electrónica.
 
-###  Servicio Multicanal de Atención al Ciudadano
+El servicio de firmas electrónica quedaría delegado a la herramienta Clave firm@ o a una instancia de Autofirma instalada en local.
 
-#### Mi Carpeta Ciudadana {#carpeta-ciudadana}
+El Portafirmas General del Estado presenta como un portal web.
 
-Mi Carpeta Ciudadana (CCD).
-
-### Servicio de Gestión del Registro
-
-Estos servicios se emplean cuando debe figurar la entrada o salida de documentos y se deben tener en cuenta plazos.
+### Registros y representación del ciudadano ante las AAPP
 
 #### SIR {#sistema-de-interconexion-de-registros}
 
@@ -105,9 +119,9 @@ Estos servicios se emplean cuando debe figurar la entrada o salida de documentos
   - <https://administracionelectronica.gob.es/ctt/sir>
 :::
 
-El Sistema de Interconexión de Registros (SIR) es la infraestructura de comunicaciones que conecta las oficinas de registro del sector público español y que permite el intercambio de documentos y solicitudes entre los registros electrónicos de las AAPP.
+El **Sistema de Interconexión de Registros** (**SIR**) es la infraestructura de comunicaciones que conecta las oficinas de registro del sector público español y que permite la transmisión de documentos y solicitudes entre los registros electrónicos de las AAPP.
 
-No confundir con [PID](#plataforma-de-intermediación-de-datos), que se especializa en el intercambio de datos entre aplicaciones.
+No confundir con [PID](#plataforma-de-intermediación-de-datos), que se especializa en la verificación de datos entre aplicaciones, evitando que el ciudadano deba aportar nuevos documentos.
 
 #### ORVE {#orve}
 
@@ -117,9 +131,9 @@ No confundir con [PID](#plataforma-de-intermediación-de-datos), que se especial
   - <https://administracionelectronica.gob.es/ctt/orve>
 :::
 
-Oficina de Registro Virtual (ORVE) es una aplicación en la nube que permite gestionar las Oficinas de Registro de entrada/salida de una Administración (incluyendo la digitalización, envío y recepción), proporcionando su propio libro de registro.
+**Oficina de Registro Virtual** (**ORVE**) es una aplicación en la nube que permite gestionar las Oficinas de Registro de entrada/salida de una Administración (incluyendo la digitalización, envío y recepción), proporcionando su propio libro de registro.
 
-Cuenta con la certificación de la NTI [SICRES](#sicres) 4.0. Usa SIR como backend.
+Cuenta con la certificación de la NTI [SICRES](#sicres) 4.0. Usa [SIR](#sistema-de-interconexion-de-registros) como backend.
 
 Al ser una solución básica, es más utilizada por organismos pequeños como ayuntamientos.
 
@@ -131,9 +145,9 @@ Al ser una solución básica, es más utilizada por organismos pequeños como ay
   - <https://administracionelectronica.gob.es/ctt/geiser>
 :::
 
-Gestión Integrada de Servicios de Registro (GEISER) es una aplicación en la nube solución más avanzada que ORVE que añade distribución.
+**Gestión Integrada de Servicios de Registro** (**GEISER**) es una aplicación en la nube solución más avanzada que ORVE, que añade distribución.
 
-Usa SIR como backend.
+Usa [SIR](#sistema-de-interconexion-de-registros) como backend.
 
 Al ser avanzada, es más utilizada por grandes organismos como ministerios.
 
@@ -151,7 +165,80 @@ Está gestionado por la AGE.
 
 Sustituye al antiguo Registro Electrónico Común (REC).
 
-### Gestión de Notificaciones
+#### @podera {#apodera}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias:
+  - <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face>
+:::
+
+El Registro Electrónico de Apoderamiento (REA) es la figura legal del registro electrónico donde ciudadanos y organizaciones pueden otorgar poderes a otras personas para que actúen en su nombre ante las AAPP.
+
+@podera es la plataforma informática que permite gestionar el Registro Electrónico de Apoderamiento.
+
+#### Habilit@ {#habilita}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias:
+  - <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face>
+:::
+
+Habilit@ es un registro de autorizaciones de funcionarios habilitados en el que se almacenan los permisos legales para actuar en nombre de la Administración Pública.
+
+### Atención al ciudadano y empresa
+
+#### Mi Carpeta Ciudadana {#carpeta-ciudadana}
+
+**Mi Carpeta Ciudadana** (MCD).
+
+#### FACe {#face}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias:
+  - <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face>
+:::
+
+FACE es el Punto General de Entrada de Facturas Electrónicas de la AGE.
+
+### Intercambio de información entre Administraciones Públicas
+
+#### Plataforma de Intermediación de Datos (PID) {#plataforma-de-intermediación-de-datos}
+
+La **Plataforma de Intermediación de Datos** (**PID**) permite que se compartan datos o documentos entre organismos de la AGE. Se emplea para hacer verificaciones en tiempo real sin necesidad de que el ciudadano aporte más registros.
+
+El Servicio de Verificación de Datos (SVD) se ofrece dentro de la PID y permite verificar y consultar datos.
+
+No confundir con [SIR](#sistema-de-interconexion-de-registros), que se especializa en el envío de documentos entre aplicaciones.
+
+### Sistemas de información transversales
+
+#### DIR3 {#dir3}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+<https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=dir>
+:::
+
+DIR3 es el Directorio Común de Unidades Orgánicas y Oficinas de la AGE.
+
+Es necesario acudir a él para hacer consultas sobre intercambios de facturación, expedientes o registros.
+
+#### SIA {#sia}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias:
+  - <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=sia>
+:::
+
+Sistema de Información Administrativa (SIA) es un sistema de información que recoge el inventario de tramitación administrativa de la AGE, incluyendo procedimientos administrativos y servicios.
+
+Si hubiera una ventanilla única y se debe redirigir procedimientos, SIA sería de utilidad.
+
+### Comunicaciones y notificaciones al ciudadano
 
 #### Notific@ {#notifica}
 
@@ -167,75 +254,8 @@ Notific@ es una infraestructura interna (backend) que sirve a los organismos pú
 
 La Dirección Electrónica Habilitada única (DEHú) es un portal web que funciona como punto único de notificaciones para toda las AAPP. Permite consultas y ofrece una interfaz de servicios para grandes destinatarios.
 
-###  Gestión de Nómina
+### Expediente, documento y archivo electrónico
 
-###  Servicio Integrado de Gestión de Personal
-
-###  Servicio Común de Gestión Económico-Presupuestaria
-
-###  Servicio común de generación y validación de firmas electrónicas
-
-#### Cl@ve {#clave}
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Referencias
-  - [Cl@ve en CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=clave). PAe.
-:::
-
-Cl@ve es un servicio para la identificación, autenticación y firma electrónica orientado al ciudadano.
-
-Existen las siguientes variantes:
-
-- Cl@ve permanente
-- Cl@ve móvil
-
-No se debe confundir con el servicio transversal de firma electrónica [Cl@ve Firma](#clave-firma).
-
-#### AutenticA {#autentica}
-
-AutenticA tiene una función similar a Cl@ve pero está orientado al personal de AAPP.
-
-Funciona como un "Directorio Activo" o repositorio unificado que permite a los funcionarios y personal autorizado loguearse en las aplicaciones de gestión de la AGE (como GEISER o Portafirmas).
-
-#### @firma {#afirma}
-
-@firma es el servicio central de validación de firma electrónica de la AGE.
-
-No confundir con el servicio de autenticación [Cl@ve Firma](#clave-firma).
-
-#### VALIDe {#valide}
-
-Validación de firmas y certificados online (VALIDe) es una aplicación web creada por la SGAD que permite a los ciudadanos validar la firma electrónica de los documentos. Emplea [@firma](#afirma) como backend.
-
-#### Cl@ve Firma {#clave-firma}
-
-Cl@ve Firma es un servicio de firma electrónica en la nube.
-
-No se debe confundir con el servicio transversal de autenticación [Cl@ve](#clave) ni con el servicio de validación [@firma](#afirma).
-
-#### FIRe {#fire}
-
-La solución integral de firma electrónica (FIRe) es una pasarela de software instalada en local que unifica las distintas soluciones que pueden emplear las aplicaciones cuando trabajan con firmas. No se trata, por tanto, de un servicio transversal, aunque trabaja con ellos.
-
-FIRe permite, por ejemplo, escoger entre realizar una firma con un servicio en local (mediante el software Autofirma) o con uno en la nube (Cl@ve Firma) o verificar una firma contra @firma.
-
-#### Port@firmas {#portafirmas}
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Referencias:
-  - [Portafirmas en CTT](https://administracionelectronica.gob.es/ctt/portafirmas). PAe.
-  - [Portafirmas General del Estado](https://pf.seap.minhap.es)
-:::
-
-**Portafirmas** (en ocasiones estilizado como **Port@firmas**) es una plataforma digital para empleados de la administración pública que muestra los documentos pendientes de firmar en un organismo y permite la incorporación de la firma electrónica.
-
-El servicio de firmas electrónica quedaría delegado a la herramienta Clave firm@ o a una instancia de Autofirma instalada en local.
-
-El Portafirmas General del Estado presenta como un portal web.
-
-###  Servicio de gestión y documentos electrónicos
 
 Un **expediente electrónico** es el conjunto ordenado de documentos electrónicos que corresponden a un mismo procedimiento administrativo, unidos por un índice electrónico firmado. En el mundo analógico, el equivalente sería una carpeta con distintos documentos.
 
@@ -295,78 +315,24 @@ Valor añadido de Archive:
 
 - Control de expurgo: Aplica los calendarios de conservación (dictados por la Comisión Superior Calificadora de Documentos Administrativos) para saber si un expediente debe guardarse para siempre (como patrimonio histórico) o si debe destruirse legalmente pasados 5, 10 o 50 años.
 
-## Bases de datos comunes
+### Apoyo a la tramitación administrativa
 
-### DIR3 {#dir3}
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-<https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=dir>
-:::
-
-DIR3 es el Directorio Común de Unidades Orgánicas y Oficinas de la AGE.
-
-Es necesario acudir a él para hacer consultas sobre intercambios de facturación, expedientes o registros.
-
-### SIA {#sia}
+#### ACCEDA 2 {#acceda-2}
 
 ::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Referencias:
-  - <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=sia>
+- Referencias
+  - [ACCEDA 2 en PAe](https://administracionelectronica.gob.es/ctt/acceda2){target="_blank"}
 :::
 
-Sistema de Información Administrativa (SIA) es un sistema de información que recoge el inventario de tramitación administrativa de la AGE, incluyendo procedimientos administrativos y servicios.
+**ACCEDA 2** (Acceso de los Ciudadanos a los Expedientes de la Administración) es un servicio horizontal de la AEAD para sedes electrónicas y tramitación electrónica de expedientes en la Administración General del Estado.
 
-Si hubiera una ventanilla única y se debe redirigir procedimientos, SIA sería de utilidad.
+ACCEDA 2 es la evolución de ACCEDA, declarada obsoleta.
 
-## Infraestructura común de interoperabilidad
+### Comunicación y difusión
 
-### Plataforma de Intermediación de Datos (PID) {#plataforma-de-intermediación-de-datos}
+### Reutilización
 
-La Plataforma de Intermediación de Datos (PID) permite que se compartan datos o documentos entre organismos de la AGE. Se emplea para hacer verificaciones en tiempo real sin necesidad de mover documentos ni registros.
-
-El Servicio de Verificación de Datos (SVD) se ofrece dentro de la PID y permite verificar y consultar datos.
-
-No confundir con [SIR](#sistema-de-interconexion-de-registros), que se especializa en el intercambio de datos entre aplicaciones.
-
-## Registros
-
-Estos registros son requeridos por alguna ley estatal o norma
-
-### FACe {#face}
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Referencias:
-  - <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face>
-:::
-
-FACE es el Punto General de Entrada de Facturas Electrónicas de la AGE.
-
-### @podera {#apodera}
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Referencias:
-  - <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face>
-:::
-
-El Registro Electrónico de Apoderamiento (REA) es la figura legal del registro electrónico donde ciudadanos y organizaciones pueden otorgar poderes a otras personas para que actúen en su nombre ante las AAPP.
-
-@podera es la plataforma informática que permite gestionar el Registro Electrónico de Apoderamiento.
-
-### Habilit@ {#habilita}
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Referencias:
-  - <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face>
-:::
-
-Habilit@ es un registro de autorizaciones de funcionarios habilitados en el que se almacenan los permisos legales para actuar en nombre de la Administración Pública.
-
-### CISE (Centro de Interoperabilidad Semántica) {#cise}
+#### CISE (Centro de Interoperabilidad Semántica) {#cise}
 
 ::: {.callout-note icon="false"}
 - Referencias
@@ -374,3 +340,32 @@ Habilit@ es un registro de autorizaciones de funcionarios habilitados en el que 
 :::
 
 El Centro de Interoperabilidad Semántica (CISE) sirve para almacenar, publicar y difundir modelos de datos comunes y sectoriales a las AAPP de la AGE, garantizando que las diferentes administraciones públicas y ciudadanos entiendan la información intercambiada de forma automática.
+
+### Utilidades para portales y servicios públicos
+
+## Servicios transversales
+
+Un **servicio transversal** es aquel servicio común que ha sido declarado como tal por la Comisión de Estrategia TIC (CETIC), a propuesta del Consejo Rector de la AEAD, y que tiene carácter obligatorio y sustitutivo.
+
+Este servicio cubre necesidades horizontales comunes a varias unidades de la AGE, en contraposición con el término **servicio sectorial**. 
+
+El término "servicio transversal" sustituye al de "servicio compartido" desde el RD 1125/2024.
+
+El RD 1125/2024 no lista los servicios transversales, pero su disposición adicional primera indica que se declaran como tal los ya declarados como servicios compartidos en el derogado RD 806/2014.
+
+La CETIC declaró 14 servicios transversales de la AGE, en 2026: 
+
+- [Servicio Unificado de Telecomunicaciones](#servicio-unificado-de-telecomunicaciones)
+- Servicio de Seguridad Gestionada
+- Servicio de Alojamiento de Infraestructura TIC
+- [Servicio de Nube Híbrida (NubeSARA)](#nubesara)
+- Servicio de Correo Electrónico Unificado
+- Servicio Multicanal de Atención al Ciudadano
+- Servicio de Gestión del Registro
+- Gestión de Notificaciones
+- Gestión de Nómina
+- Servicio Integrado de Gestión de Personal
+- Servicio Común de Gestión Económico-Presupuestaria
+- Servicio común de generación y validación de firmas electrónicas
+- Servicio de gestión y documentos electrónicos
+- Servicio de gestión de archivo electrónico
