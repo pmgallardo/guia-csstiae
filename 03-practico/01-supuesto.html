@@ -194,7 +194,7 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01-inicio/02-admision.html" class="sidebar-item-text sidebar-link">
+  <a href="../01-inicio/02-inscripcion.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Inscripción</span></span></a>
   </div>
 </li>
@@ -525,7 +525,7 @@ window.Quarto = {
   <li><a href="#inteligencia-artificial" id="toc-inteligencia-artificial" class="nav-link" data-scroll-target="#inteligencia-artificial"><span class="header-section-number">8.9.5</span> Inteligencia Artificial</a>
   <ul class="collapse">
   <li><a href="#aprendizaje-automático" id="toc-aprendizaje-automático" class="nav-link" data-scroll-target="#aprendizaje-automático"><span class="header-section-number">8.9.5.1</span> Aprendizaje automático</a></li>
-  <li><a href="#ibpms" id="toc-ibpms" class="nav-link" data-scroll-target="#ibpms"><span class="header-section-number">8.9.5.2</span> iBPMS</a></li>
+  <li><a href="#ibpm" id="toc-ibpm" class="nav-link" data-scroll-target="#ibpm"><span class="header-section-number">8.9.5.2</span> iBPM</a></li>
   </ul></li>
   </ul></li>
   <li><a href="#soluciones-tecnológicas" id="toc-soluciones-tecnológicas" class="nav-link" data-scroll-target="#soluciones-tecnológicas"><span class="header-section-number">8.10</span> Soluciones tecnológicas</a>
@@ -876,7 +876,7 @@ window.Quarto = {
   <li><a href="#inteligencia-artificial" id="toc-inteligencia-artificial-body"><span class="header-section-number">8.9.5</span> Inteligencia Artificial</a>
   <ul>
   <li><a href="#aprendizaje-automático" id="toc-aprendizaje-automático-body"><span class="header-section-number">8.9.5.1</span> Aprendizaje automático</a></li>
-  <li><a href="#ibpms" id="toc-ibpms-body"><span class="header-section-number">8.9.5.2</span> iBPMS</a></li>
+  <li><a href="#ibpm" id="toc-ibpm-body"><span class="header-section-number">8.9.5.2</span> iBPM</a></li>
   </ul></li>
   </ul></li>
   <li><a href="#soluciones-tecnológicas" id="toc-soluciones-tecnológicas-body"><span class="header-section-number">8.10</span> Soluciones tecnológicas</a>
@@ -2846,15 +2846,16 @@ LIFO report</code></pre>
 <section id="aprendizaje-automático" class="level4" data-number="8.9.5.1">
 <h4 data-number="8.9.5.1" class="anchored" data-anchor-id="aprendizaje-automático"><span class="header-section-number">8.9.5.1</span> Aprendizaje automático</h4>
 <p>Se puede aplicar mecanismos de aprendizaje automático, supervisado o no supervisado dependiendo de si se cuenta con un conjunto de entrenamiento etiquetado.</p>
-<p>Para la automatización de procesos se puede proponer el uso de un iBPM (interactive business process management), que aplica IA a procesos. Appian o BluePrism.</p>
 <p>Existen modelos de: - pesos abiertos (con pesos conocidos y ejecutados en local). Llama o Mistral. - cerrados (con pesos desconocidos y ejecutados como servicio). GPT, Claude, Gemini. Pago por uso.</p>
-<p>Estrategias de uso en GenIA, de menor a mayor intervención:</p>
+<p>Estrategias de adaptación de LLMs, de menor a mayor intervención:</p>
 <ol type="1">
-<li>ICL (<em>In-Context Learning</em>) / <em>Prompt Engineering</em>: se guía al modelo con instrucciones y posiblemente algún ejemplo.</li>
+<li>ICL (<em>In-Context Learning</em>): se guía al modelo con instrucciones y posiblemente algún ejemplo.</li>
 <li>RAG (<em>Retrieval-Augemented Generation</em>): se recopila información interna y se inyecta en el modelo.</li>
 <li><em>Fine-tuning</em>: reentrenamiento del modelo con datos específicos.</li>
 <li>Agentes: sistema con capacidad de razonamiento mediante un LLM, memoria y una serie de herramientas facilitada por otros sistemas.</li>
 </ol>
+<p><em>Prompt engineering</em> es la técnica de redactar y estructurar las instrucciones, el formato, las restricciones y los ejemplos enviados a un modelo.</p>
+<p><em>Long context</em> es una técnica que permite incluir un gran volumen de datos o ejemplos en ese prompt (por ejemplo, decenas de ejemplos de ICL o varios documentos enteros) porque la ventana de contexto es muy amplia</p>
 <p>RAG tiene dos pasos: 1. convertir los datos en chunks y embeddings, y guardar en una BBDD vectorial. 2. identificar los embeddings que</p>
 <p>El <em>fine-tuning</em> se realiza sobre un modelo fundacional.</p>
 <p>Para trocear cada documento en fragmentos se puede usar LangChain.</p>
@@ -2914,9 +2915,9 @@ LIFO report</code></pre>
 <p>Agencia Española de Supervisión de Inteligencia Artificial (AESIA)</p>
 <p>Las soluciones con IA suelen ser más caras.</p>
 </section>
-<section id="ibpms" class="level4" data-number="8.9.5.2">
-<h4 data-number="8.9.5.2" class="anchored" data-anchor-id="ibpms"><span class="header-section-number">8.9.5.2</span> iBPMS</h4>
-<p>Intelligent Business Process Management Suite (iBPMS)</p>
+<section id="ibpm" class="level4" data-number="8.9.5.2">
+<h4 data-number="8.9.5.2" class="anchored" data-anchor-id="ibpm"><span class="header-section-number">8.9.5.2</span> iBPM</h4>
+<p>Para la automatización de procesos se puede proponer el uso de un iBPM (intelligent business process management), que aplica IA a procesos. Ejemplos de productos son Appian BPM o SS&amp;C Blue Prism Chorus BPM.</p>
 </section>
 </section>
 </section>
@@ -3756,7 +3757,7 @@ Advertencia
 <p>En CSR, el navegador solicita al sistema el contenido estático de la página web, lo que se suele hacer a través de un CDN o un almacén de archivos estáticos (ya que esta estructura es común a todos los clientes) y posteriormente el navegador renderiza la página a base de scripts ejecutados en el lado del cliente.</p>
 <p>Un <strong>CDN</strong> (<em>content delivery network</em>) se puede emplear para facilitar a los usuarios contenidos comunes a todos o una gran parte de ellos, como contenido estático (estructura básica de la aplicación web en CSR, noticias, etc.).</p>
 <p>Un <strong>API gateway</strong> (pasarela API) es un bloque que se encuentra entre las interfaces de los usuarios y el dominio del sistema; es decir, ejerce de separación entre el frontend y el backend de la aplicación. En el lado del backend estarían los servidores de aplicación y microservicios, que agrupan la lógica de dominio aislada de la lógica de presentación.</p>
-<p>Pese a que el API gateway está en la frontera entre el frontend y el backend, este tradicionalmente, y por tanto suele estar contenido dentro de la red perimetral; sin embargo, estructuras más modernas lo pueden colocar también dentro del backend.</p>
+<p>Pese a que el API gateway está en la frontera entre el frontend y el backend, este tradicionalmente suele situarse dentro de la red perimetral; sin embargo, estructuras más modernas lo pueden colocar también dentro del backend.</p>
 <p>El API gateway es necesario cuando existen varias interfaces de usuario, como por ejemplo páginas web distintas para cada tipo de usuario o acceso alternativo para un mismo perfil via web y via app. Si no hay distintas interfaces de usuario, conviene justificar su inclusión; por ejemplo, indicar que se incluye por escalabilidad del sistema o porque permite usar APIs externas e internas distintas.</p>
 <p>Las llamadas del navegador web a la aplicación suele realizarse mediante HTTP.</p>
 <p>Las llamadas al API gateway se suelen realizar con el protocolo REST.</p>
@@ -5363,7 +5364,7 @@ Total: 1.270 €/año</p></li>
 <li><strong>Consejo de Ministros</strong>: Comprobar si el contrato debe ser aprobado por Consejo de Ministros (&gt;12M€).</li>
 <li><strong>Lotes</strong>: Dividir en lotes</li>
 </ol>
-<p>Resumen de tipologías de contratación pública, con sus límites y tiempos:</p>
+<p>Resumen de tipologías de provisión de servicios en el sector público, con sus límites y tiempos:</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -5379,7 +5380,17 @@ Total: 1.270 €/año</p></li>
 </thead>
 <tbody>
 <tr class="odd">
+<td>Ejecución directa</td>
+<td>sin límite</td>
+<td>Inmediato</td>
+</tr>
+<tr class="even">
 <td>Encargos a medios propios</td>
+<td>sin límite</td>
+<td>Inmediato</td>
+</tr>
+<tr class="odd">
+<td>Encomienda de gestión</td>
 <td>sin límite</td>
 <td>Inmediato</td>
 </tr>
@@ -5831,7 +5842,6 @@ Advertencia
 <p>Se debe solicitar al menos 3 prespuestos.</p>
 <p>No se requerirá la aprobación del gasto, pero sí la incorporación al expediente de la factura correspondiente.</p>
 <p>Los contratos menores NO son susceptbiles de prórroga.</p>
-<p>Según los apuntes de Andreu Bosa, lleva un mes su tramitación.</p>
 </section>
 </section>
 <section id="otras-modalidades-de-provisión-de-servicios" class="level3" data-number="8.16.7">
@@ -5845,7 +5855,7 @@ Advertencia
 <section id="ejecución-directa" class="level4" data-number="8.16.7.1">
 <h4 data-number="8.16.7.1" class="anchored" data-anchor-id="ejecución-directa"><span class="header-section-number">8.16.7.1</span> Ejecución directa</h4>
 <p>La <strong>ejecución directa</strong> mediante <strong>personal propio</strong> o <strong>equipo interno</strong> implica el uso de recursos internos para la realización de actividades.</p>
-<p>En jerga jurídica, en ocasiones se puede referir a esta modalidad como medios propios no personificados, aunque son más habituales las expresiones anteriormente referidas y menos ambiguas</p>
+<p>En jerga jurídica, en ocasiones se puede referir a esta modalidad como medios propios no personificados, aunque son más habituales las expresiones anteriormente referidas y menos ambiguas.</p>
 </section>
 <section id="encargos-a-medios-propios-supuesto-practico" class="level4" data-number="8.16.7.2">
 <h4 data-number="8.16.7.2" class="anchored" data-anchor-id="encargos-a-medios-propios-supuesto-practico"><span class="header-section-number">8.16.7.2</span> Encargos a medios propios</h4>
@@ -6023,8 +6033,23 @@ Advertencia
 <li>Informe de fiscalización por la Intervención Delegada</li>
 </ul>
 <p>El Pliego de Cláusulas Administrativas general (PCAG) consta de unas diapositivas.</p>
-<p>El PCAP tiene carácter legal y contractual.</p>
+<p>El Pliego de Cláusulas Administrativas Particulares (PCAP) tiene carácter legal y contractual.</p>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-89-contents" aria-controls="callout-89" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Advertencia
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-89" class="callout-89-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
 <p>En la administración pública nunca se contratan personas. Se contratan solamente servicios y se necesitan personas para cubrir esos servicios.</p>
+</div>
+</div>
+</div>
 <p>En caso de retraso en la ejecución del contrato en proporción de 0,60 € por cada 1.000 €. En caso de que se supere el 5% del total se puede rescindir el contrato.</p>
 <p>Hay un proceso de recepción de la inversión. En ella está involucrado un técnico gestor.</p>
 <p>Corenet es una aplicación de la Intervención General de la Administración del Estado (IGAE) para revisar la recepción de contrato de más de 50.000 € a través de un interventaror de la IGAE. Suele ser un perfil TIC dentro de este organismo.</p>
@@ -6032,7 +6057,7 @@ Advertencia
 <section id="responsable-de-contratación" class="level3" data-number="8.16.15">
 <h3 data-number="8.16.15" class="anchored" data-anchor-id="responsable-de-contratación"><span class="header-section-number">8.16.15</span> Responsable de contratación</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-89-contents" aria-controls="callout-89" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-90-contents" aria-controls="callout-90" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -6041,7 +6066,7 @@ Advertencia
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-89" class="callout-89-contents callout-collapse collapse">
+<div id="callout-90" class="callout-90-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Convocatorias/tareas: 2020.8</p>
 </div>
@@ -6056,8 +6081,9 @@ Advertencia
 <section id="modificaciones-del-contrato" class="level2" data-number="8.17">
 <h2 data-number="8.17" class="anchored" data-anchor-id="modificaciones-del-contrato"><span class="header-section-number">8.17</span> Modificaciones del contrato</h2>
 <p>En el caso de contratos, los artículos 204-206 contemplan la posibilidad de aplicar modificaciones, solo en determinadas circunstancias.</p>
-<p>El art. 204 contempla la posibilidad de realizar <strong>modificaciones previstas en contrato</strong> a los límites económicos, con hasta un máximo del 20% del precio inicial, siempre y cuando el Pliego de Cláusulas Administrativas Particulares (PCAP) haya recogido esta posibilidad de forma clara y precisa.</p>
-<p>El art. 205 contempla la posibilidad de realizar <strong>modificaciones no previstas en contrato</strong>, especificando ciertos escenarios. En el art. 206 se especifica que si estas modificaciones son iguales o inferiores al 20%, el contratista está obligado a aceptarla. En otro caso, se aplicarán solo si el contratista está de acuerdo.</p>
+<p>El art. 204 contempla la posibilidad de realizar <strong>modificaciones previstas en contrato</strong> a los límites económicos, con hasta un máximo del 20% del precio inicial, siempre y cuando el PCAP haya recogido esta posibilidad de forma clara y precisa.</p>
+<p>El art. 205 contempla la posibilidad de realizar <strong>modificaciones no previstas en contrato</strong>, especificando escenarios como circunstancias sobrevenidas e imprevisibles.</p>
+<p>El art. 206 aclara si está obligado el proveedor esta en la <strong>obligación de aceptar las modificaciones</strong> si estas no superan el 20% o si estaban previstas en el pliego. En otro caso, se aplicarán solo si el contratista está de acuerdo.</p>
 </section>
 <section id="planificación-temporal" class="level2" data-number="8.18">
 <h2 data-number="8.18" class="anchored" data-anchor-id="planificación-temporal"><span class="header-section-number">8.18</span> Planificación temporal</h2>
@@ -6119,7 +6145,7 @@ Advertencia
 <section id="metodologías-de-desarrollo" class="level3" data-number="8.18.4">
 <h3 data-number="8.18.4" class="anchored" data-anchor-id="metodologías-de-desarrollo"><span class="header-section-number">8.18.4</span> Metodologías de desarrollo</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-90-contents" aria-controls="callout-90" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-91-contents" aria-controls="callout-91" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -6128,7 +6154,7 @@ Advertencia
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-90" class="callout-90-contents callout-collapse collapse">
+<div id="callout-91" class="callout-91-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Convocatorias/tareas: 2022.4.c, 2019.5, 2018.4</p>
 </div>
@@ -6206,7 +6232,7 @@ Advertencia
 <section id="representación-de-la-planificación-temporal" class="level3" data-number="8.18.6">
 <h3 data-number="8.18.6" class="anchored" data-anchor-id="representación-de-la-planificación-temporal"><span class="header-section-number">8.18.6</span> Representación de la planificación temporal</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-92-contents" aria-controls="callout-92" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-93-contents" aria-controls="callout-93" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -6215,7 +6241,7 @@ Advertencia
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-92" class="callout-92-contents callout-collapse collapse">
+<div id="callout-93" class="callout-93-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <p>Convocatorias/tareas: 2023.4, 2022.4.a, 2020.7, 2018.4</p>
 </div>
