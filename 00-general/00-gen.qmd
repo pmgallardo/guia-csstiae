@@ -2,6 +2,8 @@
 
 En este apartado se ofrece un resumen general del proceso de pruebas selectivas al CSSTIAE.
 
+Las personas que realizan el proceso de inscripción se denominan según la terminología oficial **personas aspirantes** o **candidatos**. En esta documentación se refiere a los mismos indiferentemente como aspirantes o candidatos.
+
 ## Estructura de las pruebas selectivas
 
 El proceso de las pruebas selectivas del CSSTIAE es complejo, largo (abarcando al menos dos años) y variante entre convocatorias, por lo que se require cierto estudio para alcanzar su comprensión.
@@ -10,20 +12,22 @@ El proceso de las pruebas selectivas del CSSTIAE es complejo, largo (abarcando a
 
 Existen dos vías de acceso dentro de una convocatoria:
 
-- Ingreso libre (IL) (también llamado en ocasiones acceso libre): accesible para todos los aspirantes, funcionarios de carrera o no, que cumplan ciertas condiciones.
-- Promoción interna (PI): accesible solamente por funcionarios de carrera que cumplan ciertas condiciones.
+- Ingreso libre (IL) (también llamado en ocasiones acceso libre): accesible para todos los aspirantes, pertenecientes al GSI o no, que cumplan ciertas condiciones.
+- Promoción interna (PI): accesible solamente por funcionarios de carrera del Cuerpo de Gestión de Sistemas de Información (GSI) que cumplan ciertas condiciones.
 
-El proceso para los aspirantes de IL y PI comparte aspectos comunes pero también algunas particularidades. Por ejemplo, el número de plazas disponibles son distintas para cada vía.
+El proceso para los aspirantes de IL y PI comparte aspectos comunes pero tiene algunas diferencias. Por ejemplo, el número de plazas disponibles son distintas para cada vía.
 
 Los aspirantes solo pueden presentarse por una de las dos vías.
 
 ### General y cupo
 
-Los aspirantes pueden escoger acceder por la vía general o por cupo.
+Los aspirantes pueden escoger acceder por la vía general o por cupo reservado para personas con discapacidad.
+
+Solo es posible presentarse por una de las dos vías.
 
 ### Fases de las pruebas selectivas
 
-En la convocatoria de 2025, el proceso de selección consta de las siguientes fases:
+En la convocatoria de 2025, el proceso de selección constó de las siguientes fases:
 
 1. Anuncio
 2. Inscripción
@@ -48,7 +52,7 @@ Existen ciertas restricciones temporales en el proceso, de acuerdo al art. 108.2
 
 Los meses de agosto se declaran inhábiles, por lo que no se cuentan estos meses de cara a cumplir plazos.
 
-En cualquier caso, no hay que olvidar que los plazos indicados se pueden incumplir si hay causas justificadas, por lo que estas restricciones son límites orientativos.
+En cualquier caso, no hay que olvidar que los plazos indicados se pueden incumplir si se considera que hay causas justificadas, por lo que estas restricciones son límites orientativos.
 
 ### Cronograma de las pruebas selectivas
 
@@ -62,7 +66,8 @@ Cronograma de pruebas selectivas de la convocatoria 2025:
 | Realización ej. test | 16/07/26 |
 | Relación def. aprobados test | 27/08/26 |
 | Realización ej. prác. | 16/10/26 |
-| Fin lecturas ej. prác. PI | < 15/11/26 |
+| Fin lecturas ej. prác. PI | 03/11/26 |
+| Publicación aprobados ej. prác. PI | 06/11/26 |
 | Realización ej. inglés PI | > 15/11/26 |
 | Relación def. aprobados ej. inglés PI | - |
 | Fin lecturas ej. prác. IL | < 15/03/27 |

@@ -30,7 +30,7 @@ book:
       chapters:
       - 01-inicio/00-gen.qmd
       - 01-inicio/01-anuncio.qmd
-      - 01-inicio/02-admision.qmd
+      - 01-inicio/02-inscripcion.qmd
     - part: "Test"
       chapters:
       - 02-test/00-gen.qmd

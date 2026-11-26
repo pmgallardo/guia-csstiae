@@ -46,18 +46,20 @@ El uso de inteligencia artificial supone el cumplmiento del [Reg(UE) 2024/1689](
 
 Se puede aplicar mecanismos de aprendizaje automático, supervisado o no supervisado dependiendo de si se cuenta con un conjunto de entrenamiento etiquetado.
 
-Para la automatización de procesos se puede proponer el uso de un iBPM (interactive business process management), que aplica IA a procesos. Appian o BluePrism.
-
 Existen modelos de:
 - pesos abiertos (con pesos conocidos y ejecutados en local). Llama o Mistral.
 - cerrados (con pesos desconocidos y ejecutados como servicio). GPT, Claude, Gemini. Pago por uso.
 
-Estrategias de uso en GenIA, de menor a mayor intervención:
+Estrategias de adaptación de LLMs, de menor a mayor intervención:
 
-1. ICL (*In-Context Learning*) / *Prompt Engineering*: se guía al modelo con instrucciones y posiblemente algún ejemplo.
+1. ICL (*In-Context Learning*): se guía al modelo con instrucciones y posiblemente algún ejemplo.
 2. RAG (*Retrieval-Augemented Generation*): se recopila información interna y se inyecta en el modelo.
 3. *Fine-tuning*: reentrenamiento del modelo con datos específicos.
 4. Agentes: sistema con capacidad de razonamiento mediante un LLM, memoria y una serie de herramientas facilitada por otros sistemas.
+
+*Prompt engineering* es la técnica de redactar y estructurar las instrucciones, el formato, las restricciones y los ejemplos enviados a un modelo.
+
+*Long context* es una técnica que permite incluir un gran volumen de datos o ejemplos en ese prompt (por ejemplo, decenas de ejemplos de ICL o varios documentos enteros) porque la ventana de contexto es muy amplia
 
 RAG tiene dos pasos:
 1. convertir los datos en chunks y embeddings, y guardar en una BBDD vectorial.
@@ -123,6 +125,6 @@ Agencia Española de Supervisión de Inteligencia Artificial (AESIA)
 
 Las soluciones con IA suelen ser más caras.
 
-#### iBPMS
+#### iBPM
 
-Intelligent Business Process Management Suite (iBPMS)
+Para la automatización de procesos se puede proponer el uso de un iBPM (intelligent business process management), que aplica IA a procesos. Ejemplos de productos son Appian BPM o SS&C Blue Prism Chorus BPM.

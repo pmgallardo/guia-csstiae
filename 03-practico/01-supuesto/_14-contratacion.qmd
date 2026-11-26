@@ -51,11 +51,13 @@ Pasos del proceso de contratación en el supuesto práctico:
 5. **Consejo de Ministros**: Comprobar si el contrato debe ser aprobado por Consejo de Ministros (>12M€).
 6. **Lotes**: Dividir en lotes
 
-Resumen de tipologías de contratación pública, con sus límites y tiempos:
+Resumen de tipologías de provisión de servicios en el sector público, con sus límites y tiempos:
 
 | Tipología | Límite importe (serv. y sum.) | Tiempo para comenzar |
 | - | - | - |
+| Ejecución directa | sin límite | Inmediato |
 | Encargos a medios propios | sin límite | Inmediato |
+| Encomienda de gestión | sin límite | Inmediato |
 | Contrato menor | < 15.000 € | 1 mes |
 | Contratación centralizada | < 1.500.000 € | 2 meses |
 | Procedimiento abierto simplificado abreviado (PASA) | < 60.000 €  | 2 meses |
@@ -444,8 +446,6 @@ No se requerirá la aprobación del gasto, pero sí la incorporación al expedie
 
 Los contratos menores NO son susceptbiles de prórroga.
 
-Según los apuntes de Andreu Bosa, lleva un mes su tramitación.
-
 ### Otras modalidades de provisión de servicios
 
 Entre las otras modalidades de provisión de servicios públicos se encuentra:
@@ -458,7 +458,7 @@ Entre las otras modalidades de provisión de servicios públicos se encuentra:
 
 La **ejecución directa** mediante **personal propio** o **equipo interno** implica el uso de recursos internos para la realización de actividades.
 
-En jerga jurídica, en ocasiones se puede referir a esta modalidad como medios propios no personificados, aunque son más habituales las expresiones anteriormente referidas y menos ambiguas
+En jerga jurídica, en ocasiones se puede referir a esta modalidad como medios propios no personificados, aunque son más habituales las expresiones anteriormente referidas y menos ambiguas.
 
 #### Encargos a medios propios {#encargos-a-medios-propios-supuesto-practico}
 
@@ -613,14 +613,13 @@ Expediente de contratación:
 
 El Pliego de Cláusulas Administrativas general (PCAG) consta de unas diapositivas.
 
-El PCAP tiene carácter legal y contractual.
+El Pliego de Cláusulas Administrativas Particulares (PCAP) tiene carácter legal y contractual.
 
-
+::: {.callout-warning collapse="false" icon="true"}
 En la administración pública nunca se contratan personas. Se contratan solamente servicios y se necesitan personas para cubrir esos servicios.
-
+:::
 
 En caso de retraso en la ejecución del contrato en proporción de 0,60 € por cada 1.000 €. En caso de que se supere el 5% del total se puede rescindir el contrato.
-
 
 Hay un proceso de recepción de la inversión. En ella está involucrado un técnico gestor.
 
@@ -645,6 +644,8 @@ En caso de ser un SDA, la admisión de proveedores la realiza la DGRCC durante l
 
 En el caso de contratos, los artículos 204-206 contemplan la posibilidad de aplicar modificaciones, solo en determinadas circunstancias.
 
- El art. 204 contempla la posibilidad de realizar **modificaciones previstas en contrato** a los límites económicos, con hasta un máximo del 20% del precio inicial, siempre y cuando el Pliego de Cláusulas Administrativas Particulares (PCAP) haya recogido esta posibilidad de forma clara y precisa.
+ El art. 204 contempla la posibilidad de realizar **modificaciones previstas en contrato** a los límites económicos, con hasta un máximo del 20% del precio inicial, siempre y cuando el PCAP haya recogido esta posibilidad de forma clara y precisa.
 
-El art. 205 contempla la posibilidad de realizar **modificaciones no previstas en contrato**, especificando ciertos escenarios. En el art. 206 se especifica que si estas modificaciones son iguales o inferiores al 20%, el contratista está obligado a aceptarla. En otro caso, se aplicarán solo si el contratista está de acuerdo.
+El art. 205 contempla la posibilidad de realizar **modificaciones no previstas en contrato**, especificando escenarios como circunstancias sobrevenidas e imprevisibles.
+
+El art. 206 aclara si está obligado el proveedor esta en la **obligación de aceptar las modificaciones** si estas no superan el 20% o si estaban previstas en el pliego. En otro caso, se aplicarán solo si el contratista está de acuerdo.

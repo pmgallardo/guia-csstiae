@@ -131,7 +131,7 @@ Un **CDN** (*content delivery network*) se puede emplear para facilitar a los us
 
 Un **API gateway** (pasarela API) es un bloque que se encuentra entre las interfaces de los usuarios y el dominio del sistema; es decir, ejerce de separación entre el frontend y el backend de la aplicación. En el lado del backend estarían los servidores de aplicación y microservicios, que agrupan la lógica de dominio aislada de la lógica de presentación.
 
-Pese a que el API gateway está en la frontera entre el frontend y el backend, este tradicionalmente, y por tanto suele estar contenido dentro de la red perimetral; sin embargo, estructuras más modernas lo pueden colocar también dentro del backend.
+Pese a que el API gateway está en la frontera entre el frontend y el backend, este tradicionalmente suele situarse dentro de la red perimetral; sin embargo, estructuras más modernas lo pueden colocar también dentro del backend.
 
 El API gateway es necesario cuando existen varias interfaces de usuario, como por ejemplo páginas web distintas para cada tipo de usuario o acceso alternativo para un mismo perfil via web y via app. Si no hay distintas interfaces de usuario, conviene justificar su inclusión; por ejemplo, indicar que se incluye por escalabilidad del sistema o porque permite usar APIs externas e internas distintas.
 

@@ -7,6 +7,6 @@ Esta guía tiene carácter meramente orientativo. Es importante contrastar las i
 \
 Versión web:
 <https://pmgallardo.github.io/guia-csstiae>
-
+admision
 Repositorio de ficheros fuente:
 <https://github.com/pmgallardo/guia-csstiae>

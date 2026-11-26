@@ -430,7 +430,7 @@ Se detalla en el apartado [PRTR](#PRTR) de Estrategias. -->
   - [RD 1118/2024](https://www.boe.es/eli/es/rd/2024/11/05/1118){target="_blank"}
 :::
 
-Se detalla en el apartado del [ENS del supuesto práctico](01-supuesto#ens).
+Se detalla en el apartado del [ENS del supuesto práctico](01-supuesto.qmd#ens).
 
 ##### RD 203/2021 {#BOE-A-2021-5032}
 
