@@ -45,6 +45,8 @@ A partir de 2015 se cambió la numeración de las normativas, poniendo primero e
 
 **eIDAS** se mantiene vigente aun tras la promulgación del [eIDAS 2](#CELEX:32024R1183), que lo modifica y amplía.
 
+Los estándares XAdES y PAdES de la Unión Europea son definidos aquí.
+
 #### Dir(UE) 2014/24. Contratación pública {#celex:32014L0024}
 
 ::: {.callout-note icon="false"}
@@ -301,6 +303,14 @@ El control financiero y la gestión de la BDNS corresponden a la Intervención G
 - Referencias:
   - [RD 951/2005](https://www.boe.es/eli/es/rd/2005/07/29/951/con){target="_blank"}
 :::
+
+El RD 951/2005 establece medidas para mejorar la calidad de la de aplicación a la AGE, organismos autónomos y servicios comunes Seguridad Social.
+
+Algunas de las medidas que establece es:
+
+- Encuestas de satisfacción
+- Sugerencias, quejas y felicitaciones
+- Observatorio de la calidad de los servicios públicos
 
 #### L 37/2007. Reutilización de datos en el sector público {#BOE-A-2007-19814}
 

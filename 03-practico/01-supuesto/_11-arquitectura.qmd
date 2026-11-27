@@ -129,6 +129,14 @@ En CSR, el navegador solicita al sistema el contenido estático de la página we
 
 Un **CDN** (*content delivery network*) se puede emplear para facilitar a los usuarios contenidos comunes a todos o una gran parte de ellos, como contenido estático (estructura básica de la aplicación web en CSR, noticias, etc.).
 
+### Arquitectura lógica backend
+
+#### Servidor de identidad (arquitectura)
+
+Un **servidor de identidad** se coloca dentro de la red privada. Los navegadores que necesiten llamarle lo tendrían que hacer a través de un proxy inverso, pues no habría conexión directa.
+
+#### API Gateway
+
 Un **API gateway** (pasarela API) es un bloque que se encuentra entre las interfaces de los usuarios y el dominio del sistema; es decir, ejerce de separación entre el frontend y el backend de la aplicación. En el lado del backend estarían los servidores de aplicación y microservicios, que agrupan la lógica de dominio aislada de la lógica de presentación.
 
 Pese a que el API gateway está en la frontera entre el frontend y el backend, este tradicionalmente suele situarse dentro de la red perimetral; sin embargo, estructuras más modernas lo pueden colocar también dentro del backend.
@@ -156,8 +164,6 @@ BFF solo tiene sentido para aplicaciones con una interfaz de usuario compleja.
 ![Patrón BFF con UI composer](../images/sup_arq_api_gateway_bff.png)
 
 Una aplicación de móvil se conecta directamente con el API gateway sin necesidad de que intervenga ningún servidor de aplicación, ya que es la app instalada en el móvil quien lleva la carga del front-end.
-
-### Arquitectura lógica backend
 
 #### Microservicios en backend
 

@@ -269,7 +269,17 @@ Lote 6: Sw de productividad y colaboración
 
 SDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 1.500.000 € excluidos impuestos, prórrogas y modificaciones contractuales. Esta cláusula fue introducida por la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).
 
-Para licitar este SDA se emite un documento de invitación a los proveedores.
+Para licitar este SDA se require:
+
+- Redacción de la **Memoria Justificativa**
+- Redacción de un **Documento de Invitación** (que sustituye a los PCAP/PPT tradicionales) y reserva de crédito.
+- Solicitud de **informe técnico preceptivo** a la AEAD (si aplica por importe/objeto, SARA) y tramitación a través de la plataforma AUNA ante la DGRCC.
+- La DGRCC envía la invitación a todas las empresas admitidas en la categoría correspondiente del SDA. El plazo mínimo legal de presentación de ofertas en un SDA es de 10 días (de ahí su gran agilidad).
+- **Valoración y Adjudicación* (Semanas 6-8)**: Evaluación de ofertas, propuesta de adjudicación, acreditación de documentación por el adjudicatario
+- **Resolución de adjudicación/formalización**. En total, unos 2 meses reales, lo que justifica plenamente tu estimación.
+
+
+emite un documento de invitación a los proveedores.
 
 ::: {.callout-warning}
 El SDA 26/2021 no requiere ni Pliego de Cláusulas Administrativas Particulares (PCAP) y Pliego de Prescripciones Técnicas (PPT).
@@ -479,15 +489,17 @@ Se distingue dentro de los encargos a medios propios son siempre a través de me
 La definición de medio propio incluye:
 
 - Controlado por el organismo, como si fuese propio.
-- 100% de capital público.
+- 100% de capital pú  blico.
 - No tener más de un 20% de actividad en sector privado.
 
 Un ejemplo de medio propio personificado sería la Fábrica Naciona de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM).
 
+Para emplearla en la AGE, es necesario justificar que resulta más eficiente que la contratación pública o bien que concurren razones de seguridad pública o urgencia, de acuerdo al art. 86 del RJSP.
+
 Son distintos los encargos a medios propios y las encomiendas de gestión.
 
 ::: {.callout-warning icon="false"}
-Los encargos a medios propios no son contratos, a pesar de estar regulados en la Ley de Contratos del Sector Público (LCSP).
+Los encargos a medios propios no son contratos, a pesar de estar regulados en la Ley de Contratos del Sector Público (LCSP), sino un instrumento de cooperación interna.
 :::
 
 #### Encomienda de gestión (supuesto práctico) {#encomienda-de-gestion-supuesto-practico}

@@ -142,6 +142,10 @@ Soluciones de SCA son **OWASP Dependency-Check** (código abierto) o **JFrog XRa
 
 ### Soluciones de comunicación
 
+#### Servidor de identidad (herramientas)
+
+**Keycloak** es de código abierto.
+
 #### Mensajería
 
 Para mensajería e integración en la AGE se emplean distintas herramientas, dependiendo de la necesidad.

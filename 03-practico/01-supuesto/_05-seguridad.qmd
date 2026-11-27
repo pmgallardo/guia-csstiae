@@ -175,6 +175,22 @@ Obtener consentimiento del tratamiento de datos.
 
 La Evaluación de Impacto en la Protección de Datos (EIPD) se 
 
+### Firma electrónica
+
+### Estándar AdES
+
+El reglamento eIDAS introduce una serie de estándares AdES (*Advanced Electronic Signatures*). El prefijo de cada estándar define a qué formato de fichero aplica:
+
+- P-: PDF
+- X-: XML
+- C-: cualquier binario, que no responda a los anteriores.
+
+El sufijo de cada estándar indica su caducidad:
+
+- -B
+- -T
+- -LT/-LTA
+
 ### Certificados electrónicos (supuesto práctico)
 
 ### Autenticación
@@ -189,6 +205,10 @@ La autenticación en el sistema se puede realizar mediante distintos medios, cuy
 - Autentica: solo válido para empleados de la AGE.
 
 Además, se debe valorar el emplear métodos de autenticación de dos factores (2FA) o multifactor (MFA).
+
+#### Servidor de identidad
+
+El servidor de identidad debe llamar directamente a Cl@ve, en caso de que estén integrados, a través del protocolo SAML 2.0.
 
 #### Biometría
 
