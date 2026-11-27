@@ -49,7 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-28da8f14bab7ae7df02c79d9e42405d8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a460f1b7a564bca223c82b9e8ef4e2c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -474,13 +474,16 @@ window.Quarto = {
   <ul>
   <li><a href="#esquema-nacional-de-seguridad-ens" id="toc-esquema-nacional-de-seguridad-ens" class="nav-link" data-scroll-target="#esquema-nacional-de-seguridad-ens"><span class="header-section-number">8.6.1</span> Esquema Nacional de Seguridad (ENS)</a></li>
   <li><a href="#protección-de-datos-personales" id="toc-protección-de-datos-personales" class="nav-link" data-scroll-target="#protección-de-datos-personales"><span class="header-section-number">8.6.2</span> Protección de datos personales</a></li>
-  <li><a href="#certificados-electrónicos-supuesto-práctico" id="toc-certificados-electrónicos-supuesto-práctico" class="nav-link" data-scroll-target="#certificados-electrónicos-supuesto-práctico"><span class="header-section-number">8.6.3</span> Certificados electrónicos (supuesto práctico)</a></li>
-  <li><a href="#autenticación" id="toc-autenticación" class="nav-link" data-scroll-target="#autenticación"><span class="header-section-number">8.6.4</span> Autenticación</a>
+  <li><a href="#firma-electrónica" id="toc-firma-electrónica" class="nav-link" data-scroll-target="#firma-electrónica"><span class="header-section-number">8.6.3</span> Firma electrónica</a></li>
+  <li><a href="#estándar-ades" id="toc-estándar-ades" class="nav-link" data-scroll-target="#estándar-ades"><span class="header-section-number">8.6.4</span> Estándar AdES</a></li>
+  <li><a href="#certificados-electrónicos-supuesto-práctico" id="toc-certificados-electrónicos-supuesto-práctico" class="nav-link" data-scroll-target="#certificados-electrónicos-supuesto-práctico"><span class="header-section-number">8.6.5</span> Certificados electrónicos (supuesto práctico)</a></li>
+  <li><a href="#autenticación" id="toc-autenticación" class="nav-link" data-scroll-target="#autenticación"><span class="header-section-number">8.6.6</span> Autenticación</a>
   <ul class="collapse">
-  <li><a href="#biometría" id="toc-biometría" class="nav-link" data-scroll-target="#biometría"><span class="header-section-number">8.6.4.1</span> Biometría</a></li>
+  <li><a href="#servidor-de-identidad" id="toc-servidor-de-identidad" class="nav-link" data-scroll-target="#servidor-de-identidad"><span class="header-section-number">8.6.6.1</span> Servidor de identidad</a></li>
+  <li><a href="#biometría" id="toc-biometría" class="nav-link" data-scroll-target="#biometría"><span class="header-section-number">8.6.6.2</span> Biometría</a></li>
   </ul></li>
-  <li><a href="#gestión-de-riesgos" id="toc-gestión-de-riesgos" class="nav-link" data-scroll-target="#gestión-de-riesgos"><span class="header-section-number">8.6.5</span> Gestión de riesgos</a></li>
-  <li><a href="#guías-ccn-stic" id="toc-guías-ccn-stic" class="nav-link" data-scroll-target="#guías-ccn-stic"><span class="header-section-number">8.6.6</span> Guías CCN-STIC</a></li>
+  <li><a href="#gestión-de-riesgos" id="toc-gestión-de-riesgos" class="nav-link" data-scroll-target="#gestión-de-riesgos"><span class="header-section-number">8.6.7</span> Gestión de riesgos</a></li>
+  <li><a href="#guías-ccn-stic" id="toc-guías-ccn-stic" class="nav-link" data-scroll-target="#guías-ccn-stic"><span class="header-section-number">8.6.8</span> Guías CCN-STIC</a></li>
   </ul></li>
   <li><a href="#interoperabilidad" id="toc-interoperabilidad" class="nav-link" data-scroll-target="#interoperabilidad"><span class="header-section-number">8.7</span> Interoperabilidad (supuesto)</a>
   <ul>
@@ -571,10 +574,11 @@ window.Quarto = {
   </ul></li>
   <li><a href="#soluciones-de-comunicación" id="toc-soluciones-de-comunicación" class="nav-link" data-scroll-target="#soluciones-de-comunicación"><span class="header-section-number">8.11.6</span> Soluciones de comunicación</a>
   <ul class="collapse">
-  <li><a href="#mensajería" id="toc-mensajería" class="nav-link" data-scroll-target="#mensajería"><span class="header-section-number">8.11.6.1</span> Mensajería</a></li>
-  <li><a href="#api-manager" id="toc-api-manager" class="nav-link" data-scroll-target="#api-manager"><span class="header-section-number">8.11.6.2</span> API manager</a></li>
-  <li><a href="#api-gateway" id="toc-api-gateway" class="nav-link" data-scroll-target="#api-gateway"><span class="header-section-number">8.11.6.3</span> API gateway</a></li>
-  <li><a href="#clientes-api" id="toc-clientes-api" class="nav-link" data-scroll-target="#clientes-api"><span class="header-section-number">8.11.6.4</span> Clientes API</a></li>
+  <li><a href="#servidor-de-identidad-herramientas" id="toc-servidor-de-identidad-herramientas" class="nav-link" data-scroll-target="#servidor-de-identidad-herramientas"><span class="header-section-number">8.11.6.1</span> Servidor de identidad (herramientas)</a></li>
+  <li><a href="#mensajería" id="toc-mensajería" class="nav-link" data-scroll-target="#mensajería"><span class="header-section-number">8.11.6.2</span> Mensajería</a></li>
+  <li><a href="#api-manager" id="toc-api-manager" class="nav-link" data-scroll-target="#api-manager"><span class="header-section-number">8.11.6.3</span> API manager</a></li>
+  <li><a href="#api-gateway" id="toc-api-gateway" class="nav-link" data-scroll-target="#api-gateway"><span class="header-section-number">8.11.6.4</span> API gateway</a></li>
+  <li><a href="#clientes-api" id="toc-clientes-api" class="nav-link" data-scroll-target="#clientes-api"><span class="header-section-number">8.11.6.5</span> Clientes API</a></li>
   </ul></li>
   <li><a href="#soluciones-de-datos" id="toc-soluciones-de-datos" class="nav-link" data-scroll-target="#soluciones-de-datos"><span class="header-section-number">8.11.7</span> Soluciones de datos</a>
   <ul class="collapse">
@@ -599,7 +603,9 @@ window.Quarto = {
   <li><a href="#arquitectura-lógica-frontend-web" id="toc-arquitectura-lógica-frontend-web" class="nav-link" data-scroll-target="#arquitectura-lógica-frontend-web"><span class="header-section-number">8.12.4</span> Arquitectura lógica frontend web</a></li>
   <li><a href="#arquitectura-lógica-backend" id="toc-arquitectura-lógica-backend" class="nav-link" data-scroll-target="#arquitectura-lógica-backend"><span class="header-section-number">8.12.5</span> Arquitectura lógica backend</a>
   <ul class="collapse">
-  <li><a href="#microservicios-en-backend" id="toc-microservicios-en-backend" class="nav-link" data-scroll-target="#microservicios-en-backend"><span class="header-section-number">8.12.5.1</span> Microservicios en backend</a></li>
+  <li><a href="#servidor-de-identidad-arquitectura" id="toc-servidor-de-identidad-arquitectura" class="nav-link" data-scroll-target="#servidor-de-identidad-arquitectura"><span class="header-section-number">8.12.5.1</span> Servidor de identidad (arquitectura)</a></li>
+  <li><a href="#api-gateway-1" id="toc-api-gateway-1" class="nav-link" data-scroll-target="#api-gateway-1"><span class="header-section-number">8.12.5.2</span> API Gateway</a></li>
+  <li><a href="#microservicios-en-backend" id="toc-microservicios-en-backend" class="nav-link" data-scroll-target="#microservicios-en-backend"><span class="header-section-number">8.12.5.3</span> Microservicios en backend</a></li>
   </ul></li>
   <li><a href="#protocolos-de-comunicación" id="toc-protocolos-de-comunicación" class="nav-link" data-scroll-target="#protocolos-de-comunicación"><span class="header-section-number">8.12.6</span> Protocolos de comunicación</a></li>
   <li><a href="#funciones-transversales-de-la-arquitectura-lógica" id="toc-funciones-transversales-de-la-arquitectura-lógica" class="nav-link" data-scroll-target="#funciones-transversales-de-la-arquitectura-lógica"><span class="header-section-number">8.12.7</span> Funciones transversales de la arquitectura lógica</a></li>
@@ -825,13 +831,16 @@ window.Quarto = {
   <ul>
   <li><a href="#esquema-nacional-de-seguridad-ens" id="toc-esquema-nacional-de-seguridad-ens-body"><span class="header-section-number">8.6.1</span> Esquema Nacional de Seguridad (ENS)</a></li>
   <li><a href="#protección-de-datos-personales" id="toc-protección-de-datos-personales-body"><span class="header-section-number">8.6.2</span> Protección de datos personales</a></li>
-  <li><a href="#certificados-electrónicos-supuesto-práctico" id="toc-certificados-electrónicos-supuesto-práctico-body"><span class="header-section-number">8.6.3</span> Certificados electrónicos (supuesto práctico)</a></li>
-  <li><a href="#autenticación" id="toc-autenticación-body"><span class="header-section-number">8.6.4</span> Autenticación</a>
+  <li><a href="#firma-electrónica" id="toc-firma-electrónica-body"><span class="header-section-number">8.6.3</span> Firma electrónica</a></li>
+  <li><a href="#estándar-ades" id="toc-estándar-ades-body"><span class="header-section-number">8.6.4</span> Estándar AdES</a></li>
+  <li><a href="#certificados-electrónicos-supuesto-práctico" id="toc-certificados-electrónicos-supuesto-práctico-body"><span class="header-section-number">8.6.5</span> Certificados electrónicos (supuesto práctico)</a></li>
+  <li><a href="#autenticación" id="toc-autenticación-body"><span class="header-section-number">8.6.6</span> Autenticación</a>
   <ul>
-  <li><a href="#biometría" id="toc-biometría-body"><span class="header-section-number">8.6.4.1</span> Biometría</a></li>
+  <li><a href="#servidor-de-identidad" id="toc-servidor-de-identidad-body"><span class="header-section-number">8.6.6.1</span> Servidor de identidad</a></li>
+  <li><a href="#biometría" id="toc-biometría-body"><span class="header-section-number">8.6.6.2</span> Biometría</a></li>
   </ul></li>
-  <li><a href="#gestión-de-riesgos" id="toc-gestión-de-riesgos-body"><span class="header-section-number">8.6.5</span> Gestión de riesgos</a></li>
-  <li><a href="#guías-ccn-stic" id="toc-guías-ccn-stic-body"><span class="header-section-number">8.6.6</span> Guías CCN-STIC</a></li>
+  <li><a href="#gestión-de-riesgos" id="toc-gestión-de-riesgos-body"><span class="header-section-number">8.6.7</span> Gestión de riesgos</a></li>
+  <li><a href="#guías-ccn-stic" id="toc-guías-ccn-stic-body"><span class="header-section-number">8.6.8</span> Guías CCN-STIC</a></li>
   </ul></li>
   <li><a href="#interoperabilidad" id="toc-interoperabilidad-body"><span class="header-section-number">8.7</span> Interoperabilidad (supuesto)</a>
   <ul>
@@ -922,10 +931,11 @@ window.Quarto = {
   </ul></li>
   <li><a href="#soluciones-de-comunicación" id="toc-soluciones-de-comunicación-body"><span class="header-section-number">8.11.6</span> Soluciones de comunicación</a>
   <ul>
-  <li><a href="#mensajería" id="toc-mensajería-body"><span class="header-section-number">8.11.6.1</span> Mensajería</a></li>
-  <li><a href="#api-manager" id="toc-api-manager-body"><span class="header-section-number">8.11.6.2</span> API manager</a></li>
-  <li><a href="#api-gateway" id="toc-api-gateway-body"><span class="header-section-number">8.11.6.3</span> API gateway</a></li>
-  <li><a href="#clientes-api" id="toc-clientes-api-body"><span class="header-section-number">8.11.6.4</span> Clientes API</a></li>
+  <li><a href="#servidor-de-identidad-herramientas" id="toc-servidor-de-identidad-herramientas-body"><span class="header-section-number">8.11.6.1</span> Servidor de identidad (herramientas)</a></li>
+  <li><a href="#mensajería" id="toc-mensajería-body"><span class="header-section-number">8.11.6.2</span> Mensajería</a></li>
+  <li><a href="#api-manager" id="toc-api-manager-body"><span class="header-section-number">8.11.6.3</span> API manager</a></li>
+  <li><a href="#api-gateway" id="toc-api-gateway-body"><span class="header-section-number">8.11.6.4</span> API gateway</a></li>
+  <li><a href="#clientes-api" id="toc-clientes-api-body"><span class="header-section-number">8.11.6.5</span> Clientes API</a></li>
   </ul></li>
   <li><a href="#soluciones-de-datos" id="toc-soluciones-de-datos-body"><span class="header-section-number">8.11.7</span> Soluciones de datos</a>
   <ul>
@@ -950,7 +960,9 @@ window.Quarto = {
   <li><a href="#arquitectura-lógica-frontend-web" id="toc-arquitectura-lógica-frontend-web-body"><span class="header-section-number">8.12.4</span> Arquitectura lógica frontend web</a></li>
   <li><a href="#arquitectura-lógica-backend" id="toc-arquitectura-lógica-backend-body"><span class="header-section-number">8.12.5</span> Arquitectura lógica backend</a>
   <ul>
-  <li><a href="#microservicios-en-backend" id="toc-microservicios-en-backend-body"><span class="header-section-number">8.12.5.1</span> Microservicios en backend</a></li>
+  <li><a href="#servidor-de-identidad-arquitectura" id="toc-servidor-de-identidad-arquitectura-body"><span class="header-section-number">8.12.5.1</span> Servidor de identidad (arquitectura)</a></li>
+  <li><a href="#api-gateway-1" id="toc-api-gateway-1-body"><span class="header-section-number">8.12.5.2</span> API Gateway</a></li>
+  <li><a href="#microservicios-en-backend" id="toc-microservicios-en-backend-body"><span class="header-section-number">8.12.5.3</span> Microservicios en backend</a></li>
   </ul></li>
   <li><a href="#protocolos-de-comunicación" id="toc-protocolos-de-comunicación-body"><span class="header-section-number">8.12.6</span> Protocolos de comunicación</a></li>
   <li><a href="#funciones-transversales-de-la-arquitectura-lógica" id="toc-funciones-transversales-de-la-arquitectura-lógica-body"><span class="header-section-number">8.12.7</span> Funciones transversales de la arquitectura lógica</a></li>
@@ -2401,11 +2413,29 @@ Nota
 <p>Obtener consentimiento del tratamiento de datos.</p>
 <p>La Evaluación de Impacto en la Protección de Datos (EIPD) se</p>
 </section>
-<section id="certificados-electrónicos-supuesto-práctico" class="level3" data-number="8.6.3">
-<h3 data-number="8.6.3" class="anchored" data-anchor-id="certificados-electrónicos-supuesto-práctico"><span class="header-section-number">8.6.3</span> Certificados electrónicos (supuesto práctico)</h3>
+<section id="firma-electrónica" class="level3" data-number="8.6.3">
+<h3 data-number="8.6.3" class="anchored" data-anchor-id="firma-electrónica"><span class="header-section-number">8.6.3</span> Firma electrónica</h3>
 </section>
-<section id="autenticación" class="level3" data-number="8.6.4">
-<h3 data-number="8.6.4" class="anchored" data-anchor-id="autenticación"><span class="header-section-number">8.6.4</span> Autenticación</h3>
+<section id="estándar-ades" class="level3" data-number="8.6.4">
+<h3 data-number="8.6.4" class="anchored" data-anchor-id="estándar-ades"><span class="header-section-number">8.6.4</span> Estándar AdES</h3>
+<p>El reglamento eIDAS introduce una serie de estándares AdES (<em>Advanced Electronic Signatures</em>). El prefijo de cada estándar define a qué formato de fichero aplica:</p>
+<ul>
+<li>P-: PDF</li>
+<li>X-: XML</li>
+<li>C-: cualquier binario, que no responda a los anteriores.</li>
+</ul>
+<p>El sufijo de cada estándar indica su caducidad:</p>
+<ul>
+<li>-B</li>
+<li>-T</li>
+<li>-LT/-LTA</li>
+</ul>
+</section>
+<section id="certificados-electrónicos-supuesto-práctico" class="level3" data-number="8.6.5">
+<h3 data-number="8.6.5" class="anchored" data-anchor-id="certificados-electrónicos-supuesto-práctico"><span class="header-section-number">8.6.5</span> Certificados electrónicos (supuesto práctico)</h3>
+</section>
+<section id="autenticación" class="level3" data-number="8.6.6">
+<h3 data-number="8.6.6" class="anchored" data-anchor-id="autenticación"><span class="header-section-number">8.6.6</span> Autenticación</h3>
 <p>La autenticación en el sistema se puede realizar mediante distintos medios, cuyo uso se debe valorar dependiendo del sistema del enunciado:</p>
 <ul>
 <li>Usuario y contraseña</li>
@@ -2416,8 +2446,12 @@ Nota
 <li>Autentica: solo válido para empleados de la AGE.</li>
 </ul>
 <p>Además, se debe valorar el emplear métodos de autenticación de dos factores (2FA) o multifactor (MFA).</p>
-<section id="biometría" class="level4" data-number="8.6.4.1">
-<h4 data-number="8.6.4.1" class="anchored" data-anchor-id="biometría"><span class="header-section-number">8.6.4.1</span> Biometría</h4>
+<section id="servidor-de-identidad" class="level4" data-number="8.6.6.1">
+<h4 data-number="8.6.6.1" class="anchored" data-anchor-id="servidor-de-identidad"><span class="header-section-number">8.6.6.1</span> Servidor de identidad</h4>
+<p>El servidor de identidad debe llamar directamente a Cl@ve, en caso de que estén integrados, a través del protocolo SAML 2.0.</p>
+</section>
+<section id="biometría" class="level4" data-number="8.6.6.2">
+<h4 data-number="8.6.6.2" class="anchored" data-anchor-id="biometría"><span class="header-section-number">8.6.6.2</span> Biometría</h4>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-37-contents" aria-controls="callout-37" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -2436,8 +2470,8 @@ Nota
 </div>
 </section>
 </section>
-<section id="gestión-de-riesgos" class="level3" data-number="8.6.5">
-<h3 data-number="8.6.5" class="anchored" data-anchor-id="gestión-de-riesgos"><span class="header-section-number">8.6.5</span> Gestión de riesgos</h3>
+<section id="gestión-de-riesgos" class="level3" data-number="8.6.7">
+<h3 data-number="8.6.7" class="anchored" data-anchor-id="gestión-de-riesgos"><span class="header-section-number">8.6.7</span> Gestión de riesgos</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -2460,8 +2494,8 @@ Nota
 </div>
 <p>Este apartado trata sobre la evaluación de riesgos en proyectos de sistemas de la información.</p>
 </section>
-<section id="guías-ccn-stic" class="level3" data-number="8.6.6">
-<h3 data-number="8.6.6" class="anchored" data-anchor-id="guías-ccn-stic"><span class="header-section-number">8.6.6</span> Guías CCN-STIC</h3>
+<section id="guías-ccn-stic" class="level3" data-number="8.6.8">
+<h3 data-number="8.6.8" class="anchored" data-anchor-id="guías-ccn-stic"><span class="header-section-number">8.6.8</span> Guías CCN-STIC</h3>
 <p>Las guías CCN-STIC son un conjunto de documentos que proporcionan recomendaciones y buenas prácticas en materia de seguridad de la información. Estas guías están desarrolladas por el Centro Criptológico Nacional (CCN) y están dirigidas a las Administraciones Públicas y a las entidades que manejan información sensible.</p>
 <p>Las guías suelen tratar aspectos específicos de la valoración o configuración de seguridad en el sistema. Se valora que en el ejercicio se mencionen las guías con su código. Estas guías se mencionan en este documento en cada apartado en los que vienen siendo relevantes.</p>
 </section>
@@ -3269,8 +3303,12 @@ Advertencia
 </section>
 <section id="soluciones-de-comunicación" class="level3" data-number="8.11.6">
 <h3 data-number="8.11.6" class="anchored" data-anchor-id="soluciones-de-comunicación"><span class="header-section-number">8.11.6</span> Soluciones de comunicación</h3>
-<section id="mensajería" class="level4" data-number="8.11.6.1">
-<h4 data-number="8.11.6.1" class="anchored" data-anchor-id="mensajería"><span class="header-section-number">8.11.6.1</span> Mensajería</h4>
+<section id="servidor-de-identidad-herramientas" class="level4" data-number="8.11.6.1">
+<h4 data-number="8.11.6.1" class="anchored" data-anchor-id="servidor-de-identidad-herramientas"><span class="header-section-number">8.11.6.1</span> Servidor de identidad (herramientas)</h4>
+<p><strong>Keycloak</strong> es de código abierto.</p>
+</section>
+<section id="mensajería" class="level4" data-number="8.11.6.2">
+<h4 data-number="8.11.6.2" class="anchored" data-anchor-id="mensajería"><span class="header-section-number">8.11.6.2</span> Mensajería</h4>
 <p>Para mensajería e integración en la AGE se emplean distintas herramientas, dependiendo de la necesidad.</p>
 <p>Como gestor de <strong>colas de mensajes</strong>, como mensajes asíncronos dentro de los procesos de operaciones, se emplea RabbitMQ. Los mensajes se consumen una vez leídos, y suele haber un destinatario único.</p>
 <p>Para <strong>streaming de eventos</strong> en tiempo real, como envío de logs, estadísticas o big data, se emplea Apache Kafka. Los mensajes se guardan en memoria, y suele haber múltiples destinatarios.</p>
@@ -3337,19 +3375,19 @@ Advertencia
 </table>
 <p>Si se dan ambas casuísticas se pueden combinar en un mismo sistema, lo que a menudo se conoce como <strong>mensajería políglota</strong> (<em>polyglot messaging</em>).</p>
 </section>
-<section id="api-manager" class="level4" data-number="8.11.6.2">
-<h4 data-number="8.11.6.2" class="anchored" data-anchor-id="api-manager"><span class="header-section-number">8.11.6.2</span> API manager</h4>
+<section id="api-manager" class="level4" data-number="8.11.6.3">
+<h4 data-number="8.11.6.3" class="anchored" data-anchor-id="api-manager"><span class="header-section-number">8.11.6.3</span> API manager</h4>
 <p>Una opción propietaria de API manager (o gestor de APIs) habitual en la AGE es <strong>AnyPoint API Manager</strong>, que es parte de MuleSoft AnyPoint Platform.</p>
 <p>Entre las opciones de código abierto que ofrecen un API manager completo se encuentra <strong>WSO2 API Manager</strong>.</p>
 </section>
-<section id="api-gateway" class="level4" data-number="8.11.6.3">
-<h4 data-number="8.11.6.3" class="anchored" data-anchor-id="api-gateway"><span class="header-section-number">8.11.6.3</span> API gateway</h4>
+<section id="api-gateway" class="level4" data-number="8.11.6.4">
+<h4 data-number="8.11.6.4" class="anchored" data-anchor-id="api-gateway"><span class="header-section-number">8.11.6.4</span> API gateway</h4>
 <p>La funcionalidad de API gateway (o pasarela de APIs) está habitualmente incluida en las suites de API manager. Por ello, si el sistema ya cuenta con un API manager, no es necesario implementar un API gateway adicional.</p>
 <p>Por ejemplo, MuleSoft AnyPoint Plaform incluye MuleSoft API Gateway, mientras que WSO2 API Manager incluye <strong>WSO2 API Gateway</strong> (código abierto).</p>
 <p>Una opción de código abierto centrada en la funcionalidad de API gateway es <strong>Kong Gateway</strong> Community Edition (CE).</p>
 </section>
-<section id="clientes-api" class="level4" data-number="8.11.6.4">
-<h4 data-number="8.11.6.4" class="anchored" data-anchor-id="clientes-api"><span class="header-section-number">8.11.6.4</span> Clientes API</h4>
+<section id="clientes-api" class="level4" data-number="8.11.6.5">
+<h4 data-number="8.11.6.5" class="anchored" data-anchor-id="clientes-api"><span class="header-section-number">8.11.6.5</span> Clientes API</h4>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-54-contents" aria-controls="callout-54" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -3756,6 +3794,15 @@ Advertencia
 <p>En SSR, el servidor de presentación ejerce de intermediario y se encarga de renderizar la página web completa antes de devolverla al navegador y procesar cualquier petición posterior realizada desde el cliente.</p>
 <p>En CSR, el navegador solicita al sistema el contenido estático de la página web, lo que se suele hacer a través de un CDN o un almacén de archivos estáticos (ya que esta estructura es común a todos los clientes) y posteriormente el navegador renderiza la página a base de scripts ejecutados en el lado del cliente.</p>
 <p>Un <strong>CDN</strong> (<em>content delivery network</em>) se puede emplear para facilitar a los usuarios contenidos comunes a todos o una gran parte de ellos, como contenido estático (estructura básica de la aplicación web en CSR, noticias, etc.).</p>
+</section>
+<section id="arquitectura-lógica-backend" class="level3" data-number="8.12.5">
+<h3 data-number="8.12.5" class="anchored" data-anchor-id="arquitectura-lógica-backend"><span class="header-section-number">8.12.5</span> Arquitectura lógica backend</h3>
+<section id="servidor-de-identidad-arquitectura" class="level4" data-number="8.12.5.1">
+<h4 data-number="8.12.5.1" class="anchored" data-anchor-id="servidor-de-identidad-arquitectura"><span class="header-section-number">8.12.5.1</span> Servidor de identidad (arquitectura)</h4>
+<p>Un <strong>servidor de identidad</strong> se coloca dentro de la red privada. Los navegadores que necesiten llamarle lo tendrían que hacer a través de un proxy inverso, pues no habría conexión directa.</p>
+</section>
+<section id="api-gateway-1" class="level4" data-number="8.12.5.2">
+<h4 data-number="8.12.5.2" class="anchored" data-anchor-id="api-gateway-1"><span class="header-section-number">8.12.5.2</span> API Gateway</h4>
 <p>Un <strong>API gateway</strong> (pasarela API) es un bloque que se encuentra entre las interfaces de los usuarios y el dominio del sistema; es decir, ejerce de separación entre el frontend y el backend de la aplicación. En el lado del backend estarían los servidores de aplicación y microservicios, que agrupan la lógica de dominio aislada de la lógica de presentación.</p>
 <p>Pese a que el API gateway está en la frontera entre el frontend y el backend, este tradicionalmente suele situarse dentro de la red perimetral; sin embargo, estructuras más modernas lo pueden colocar también dentro del backend.</p>
 <p>El API gateway es necesario cuando existen varias interfaces de usuario, como por ejemplo páginas web distintas para cada tipo de usuario o acceso alternativo para un mismo perfil via web y via app. Si no hay distintas interfaces de usuario, conviene justificar su inclusión; por ejemplo, indicar que se incluye por escalabilidad del sistema o porque permite usar APIs externas e internas distintas.</p>
@@ -3786,10 +3833,8 @@ Advertencia
 </div>
 <p>Una aplicación de móvil se conecta directamente con el API gateway sin necesidad de que intervenga ningún servidor de aplicación, ya que es la app instalada en el móvil quien lleva la carga del front-end.</p>
 </section>
-<section id="arquitectura-lógica-backend" class="level3" data-number="8.12.5">
-<h3 data-number="8.12.5" class="anchored" data-anchor-id="arquitectura-lógica-backend"><span class="header-section-number">8.12.5</span> Arquitectura lógica backend</h3>
-<section id="microservicios-en-backend" class="level4" data-number="8.12.5.1">
-<h4 data-number="8.12.5.1" class="anchored" data-anchor-id="microservicios-en-backend"><span class="header-section-number">8.12.5.1</span> Microservicios en backend</h4>
+<section id="microservicios-en-backend" class="level4" data-number="8.12.5.3">
+<h4 data-number="8.12.5.3" class="anchored" data-anchor-id="microservicios-en-backend"><span class="header-section-number">8.12.5.3</span> Microservicios en backend</h4>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -5663,7 +5708,16 @@ Total: 1.270 €/año</p></li>
 <section id="sda262021" class="level6" data-number="8.16.5.1.3.2">
 <h6 data-number="8.16.5.1.3.2" class="anchored" data-anchor-id="sda262021"><span class="header-section-number">8.16.5.1.3.2</span> SDA 26/2021. Servicios de desarrollo</h6>
 <p>SDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 1.500.000 € excluidos impuestos, prórrogas y modificaciones contractuales. Esta cláusula fue introducida por la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).</p>
-<p>Para licitar este SDA se emite un documento de invitación a los proveedores.</p>
+<p>Para licitar este SDA se require:</p>
+<ul>
+<li>Redacción de la <strong>Memoria Justificativa</strong></li>
+<li>Redacción de un <strong>Documento de Invitación</strong> (que sustituye a los PCAP/PPT tradicionales) y reserva de crédito.</li>
+<li>Solicitud de <strong>informe técnico preceptivo</strong> a la AEAD (si aplica por importe/objeto, SARA) y tramitación a través de la plataforma AUNA ante la DGRCC.</li>
+<li>La DGRCC envía la invitación a todas las empresas admitidas en la categoría correspondiente del SDA. El plazo mínimo legal de presentación de ofertas en un SDA es de 10 días (de ahí su gran agilidad).</li>
+<li><strong>Valoración y Adjudicación* (Semanas 6-8)</strong>: Evaluación de ofertas, propuesta de adjudicación, acreditación de documentación por el adjudicatario</li>
+<li><strong>Resolución de adjudicación/formalización</strong>. En total, unos 2 meses reales, lo que justifica plenamente tu estimación.</li>
+</ul>
+<p>emite un documento de invitación a los proveedores.</p>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -5884,10 +5938,11 @@ Advertencia
 <p>La definición de medio propio incluye:</p>
 <ul>
 <li>Controlado por el organismo, como si fuese propio.</li>
-<li>100% de capital público.</li>
+<li>100% de capital pú blico.</li>
 <li>No tener más de un 20% de actividad en sector privado.</li>
 </ul>
 <p>Un ejemplo de medio propio personificado sería la Fábrica Naciona de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM).</p>
+<p>Para emplearla en la AGE, es necesario justificar que resulta más eficiente que la contratación pública o bien que concurren razones de seguridad pública o urgencia, de acuerdo al art. 86 del RJSP.</p>
 <p>Son distintos los encargos a medios propios y las encomiendas de gestión.</p>
 <div class="callout callout-style-default callout-warning no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -5899,7 +5954,7 @@ Advertencia
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Los encargos a medios propios no son contratos, a pesar de estar regulados en la Ley de Contratos del Sector Público (LCSP).</p>
+<p>Los encargos a medios propios no son contratos, a pesar de estar regulados en la Ley de Contratos del Sector Público (LCSP), sino un instrumento de cooperación interna.</p>
 </div>
 </div>
 </section>
